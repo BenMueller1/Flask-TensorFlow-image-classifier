@@ -1,2 +1,10 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> . .ven\Scripts\activate.batX
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> .\ven\Scripts\activate X
+X.\ven\Scripts\activate : The term '.\ven\Scripts\activate' is not recognized as the name of a cmdlet, function, script file, or operable program. 
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.X
+At line:1 char:1X
++ .\ven\Scripts\activateX
++ ~~~~~~~~~~~~~~~~~~~~~~X
+    + CategoryInfo          : ObjectNotFound: (.\ven\Scripts\activate:String) [], CommandNotFoundExceptionX
+    + FullyQualifiedErrorId : CommandNotFoundExceptionX
+ X
 PS 

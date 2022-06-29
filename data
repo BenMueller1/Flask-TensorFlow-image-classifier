@@ -22,5 +22,53 @@
         "prevTabId": 361,
         "prevUrl": "https://www.google.com/search?q=testing+out+web+histories+%3A)&oq=testing+out+web+histories+%3A)&aqs=chrome..69i57.3327j1j7&sourceid=chrome&ie=UTF-8",
         "time": "6/29/2022, 9:25:19 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 364,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 364,
+        "prevUrl": "",
+        "time": "6/29/2022, 9:36:44 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 364,
+        "curUrl": "https://www.google.com/search?q=how+to+activate+python+virtual+environment&oq=how+to+activate+py&aqs=chrome.1.69i57j0i512l9.4030j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 364,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 9:36:50 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 364,
+        "curUrl": "https://www.google.com/search?q=how+to+activate+python+virtual+environment+in+windows&sxsrf=ALiCzsbapZoXOysJYlYwbsMhD-aLvMLrgw%3A1656513408997&ei=gGO8Yri6PJ2dkPIP44-QoA8&oq=how+to+activate+python+virtual+environment+&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgQIABBDMgUIABCABDoHCAAQRxCwAzoHCAAQsAMQQ0oECEEYAEoECEYYAFDPAVjPAWC-E2gBcAF4AIABW4gBW5IBATGYAQCgAQHIAQrAAQE&sclient=gws-wiz",
+        "prevTabId": 364,
+        "prevUrl": "https://www.google.com/search?q=how+to+activate+python+virtual+environment&oq=how+to+activate+py&aqs=chrome.1.69i57j0i512l9.4030j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 9:36:55 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 364,
+        "curUrl": "https://docs.python.org/3/library/venv.html",
+        "prevTabId": 364,
+        "prevUrl": "https://www.google.com/search?q=how+to+activate+python+virtual+environment+in+windows&sxsrf=ALiCzsbapZoXOysJYlYwbsMhD-aLvMLrgw%3A1656513408997&ei=gGO8Yri6PJ2dkPIP44-QoA8&oq=how+to+activate+python+virtual+environment+&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgQIABBDMgUIABCABDoHCAAQRxCwAzoHCAAQsAMQQ0oECEEYAEoECEYYAFDPAVjPAWC-E2gBcAF4AIABW4gBW5IBATGYAQCgAQHIAQrAAQE&sclient=gws-wiz",
+        "time": "6/29/2022, 9:36:57 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 364,
+        "curUrl": "https://www.google.com/search?q=how+to+activate+python+virtual+environment+in+windows&oq=how+to+activate+&aqs=chrome.0.69i59l2j0i67j69i57j0i67j0i512l5.1935j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 364,
+        "prevUrl": "https://docs.python.org/3/library/venv.html",
+        "time": "6/29/2022, 9:37:27 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 364,
+        "curUrl": "https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html",
+        "prevTabId": 364,
+        "prevUrl": "https://www.google.com/search?q=how+to+activate+python+virtual+environment+in+windows&oq=how+to+activate+&aqs=chrome.0.69i59l2j0i67j69i57j0i67j0i512l5.1935j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 9:37:29 AM"
     }
 ]

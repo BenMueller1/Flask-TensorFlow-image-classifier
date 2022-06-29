@@ -5,7 +5,7 @@
 {% endblock %}
 
 {% block body %}
-    <h5> Your image was classified as a {{ prediction }}</h5>
+    <h5> Your image was classified as a {{ prediction }} with {{ certainty }}% certainty</h5>
     <a href="{{url_for('index')}}">predict again</a>, 
     <a href="">view all predictions</a>
     <br><br><br><br><br><br><br>

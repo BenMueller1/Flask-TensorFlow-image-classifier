@@ -35,7 +35,8 @@ def classify():
     img = Image.open(img_file)
     # img.show()
     prediction="no clue :("
-    return render_template("prediction.html", prediction=prediction)
+    certainty=100
+    return render_template("prediction.html", prediction=prediction, certainty=certainty)
 
 
 

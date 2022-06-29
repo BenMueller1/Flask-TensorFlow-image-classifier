@@ -1,12 +1,34 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> pip install torchX
-Collecting torchX
-  Downloading torch-1.12.0-cp310-cp310-win_amd64.whl (162.3 MB)X
-     |████████████████████████████████| 162.3 MB 258 kB/sX
-Requirement already satisfied: typing-extensions in c:\users\benjm\git\codehistoriespythonprojects\flask tensorflow image classifier\venv\li
-b\site-packages (from torch) (4.2.0)X
-Installing collected packages: torchX
-Successfully installed torch-1.12.0X
-WARNING: You are using pip version 21.3.1; however, version 22.1.2 is available.X
-You should consider upgrading via the 'C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier\venv\Scripts\python.
-exe -m pip install --upgrade pip' command.X
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git statusX
+XOn branch master
+Your branch is ahead of 'origin/master' by 29 commits.X
+  (use "git push" to publish your local commits)X
+X
+Changes not staged for commit:X
+  (use "git add <file>..." to update what will be committed)X
+  (use "git restore <file>..." to discard changes in working directory)X
+Xmodified:   data
+        modified:   index.pyX
+        modified:   requirements.txtX
+        modified:   static/index.jsX
+        modified:   templates/ben.htmlX
+        modified:   templates/index.htmlX
+        modified:   templates/layout.htmlX
+X
+Untracked files:X
+  (use "git add <file>..." to include in what will be committed)X
+        templates/about.htmlX
+        templates/prediction.htmlX
+X
+no changes added to commit (use "git add" and/or "git commit -a")X
+        modified:   static/index.jsX
+        modified:   templates/ben.htmlX
+        modified:   templates/index.htmlX
+        modified:   templates/layout.htmlX
+X
+Untracked files:X
+  (use "git add <file>..." to include in what will be committed)X
+        templates/about.htmlX
+        templates/prediction.htmlX
+X
+no changes added to commit (use "git add" and/or "git commit -a")X
 X(venv) PS 

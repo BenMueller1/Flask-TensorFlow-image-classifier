@@ -1,15 +1,13 @@
 {% extends "layout.html" %}
 
 {% block script %}
-    <script src="static/index.js"></script>
+    <script src=""></script>
 {% endblock %}
 
 {% block body %}
-    <form id="image_submission_form" method="POST" action="/classifyImage" enctype="multipart/form-data">
-        <input id="image_file" type="file" name="image">
-        <input id="predict_button" type="submit" value="Predict">
-    </form>
-
+    <h5> Your image was classified as a {{ prediction }}</h5>
+    <a href="{{url_for('index')}}">predict again</a>, 
+    <a href="">view all predictions</a>
     <br><br><br><br><br><br><br>
     <p> Image classification model was implemented using PyTorch and trained on TODO Torchvision Dataset, visit <a href="/about">here</a> to learn more.</p>
 {% endblock %}

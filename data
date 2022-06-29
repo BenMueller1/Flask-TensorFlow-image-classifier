@@ -918,5 +918,1133 @@
         "prevTabId": 387,
         "prevUrl": "http://localhost:5000/ben",
         "time": "6/29/2022, 10:35:23 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 10:39:52 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/about",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 10:40:18 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/about",
+        "time": "6/29/2022, 10:40:20 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 10:40:44 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/ben",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 10:40:48 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/ben",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/ben",
+        "time": "6/29/2022, 10:41:17 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/ben",
+        "time": "6/29/2022, 10:41:44 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 10:42:56 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/about",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 10:46:43 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/about",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/about",
+        "time": "6/29/2022, 10:46:45 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/about",
+        "time": "6/29/2022, 10:46:45 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 10:46:58 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 395,
+        "curUrl": "https://www.google.com/search?q=html+submit+image&oq=html+submit+image&aqs=chrome..69i57j0i20i131i263i433i512j0i20i263i512j0i512l3j69i60l2.1583j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 395,
+        "prevUrl": "https://www.w3schools.com/html/html_filepaths.asp",
+        "time": "6/29/2022, 10:47:26 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 392,
+        "curUrl": "https://www.google.com/search?q=html+image+input&oq=html+image+input&aqs=chrome..69i57j0i512l2j0i22i30l7.1767j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 392,
+        "prevUrl": "https://getbootstrap.com/docs/4.3/getting-started/introduction/",
+        "time": "6/29/2022, 10:47:57 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 392,
+        "curUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/image",
+        "prevTabId": 392,
+        "prevUrl": "https://www.google.com/search?q=html+image+input&oq=html+image+input&aqs=chrome..69i57j0i512l2j0i22i30l7.1767j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 10:47:59 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 392,
+        "curUrl": "https://www.google.com/search?q=submit+an+image+to+html+form&oq=submit+an+image+to+html+form&aqs=chrome..69i57j33i160l3j33i22i29i30l4.2944j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 392,
+        "prevUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/image",
+        "time": "6/29/2022, 10:48:17 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 392,
+        "curUrl": "https://www.codegrepper.com/code-examples/php/upload+picture+in+html+form",
+        "prevTabId": 392,
+        "prevUrl": "https://www.google.com/search?q=submit+an+image+to+html+form&oq=submit+an+image+to+html+form&aqs=chrome..69i57j33i160l3j33i22i29i30l4.2944j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 10:48:24 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 398,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 398,
+        "prevUrl": "",
+        "time": "6/29/2022, 10:54:01 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 398,
+        "curUrl": "https://www.google.com/search?q=get+input+field+javascript&oq=get+input+field+javascript&aqs=chrome..69i57j0i22i30l6j69i60.6383j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 398,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 10:54:10 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 398,
+        "curUrl": "https://stackoverflow.com/questions/11563638/how-do-i-get-the-value-of-text-input-field-using-javascript",
+        "prevTabId": 398,
+        "prevUrl": "https://www.google.com/search?q=get+input+field+javascript&oq=get+input+field+javascript&aqs=chrome..69i57j0i22i30l6j69i60.6383j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 10:54:16 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 398,
+        "curUrl": "https://www.google.com/search?q=javascirpt+popup&oq=javascirpt+popup&aqs=chrome..69i57j0i13l9.3279j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 398,
+        "prevUrl": "https://stackoverflow.com/questions/11563638/how-do-i-get-the-value-of-text-input-field-using-javascript",
+        "time": "6/29/2022, 10:54:40 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 398,
+        "curUrl": "https://www.google.com/search?q=javascirpt+alert&sxsrf=ALiCzsat1p6kcG8QEQCircMCRvdzvUc82A%3A1656518078116&ei=vnW8YtPcBrLUkPIPw-GPgAg&ved=0ahUKEwjTs_DcgtP4AhUyKkQIHcPwA4AQ4dUDCA4&uact=5&oq=javascirpt+alert&gs_lcp=Cgdnd3Mtd2l6EAMyCggAELEDEIMBEAoyBwgAELEDEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAo6BwgjELECECc6BAgAEEM6BwguENQCEApKBAhBGABKBAhGGABQAFinBWDwBWgAcAF4AIABigGIAZ0FkgEDMS41mAEAoAEBwAEB&sclient=gws-wiz",
+        "prevTabId": 398,
+        "prevUrl": "https://www.google.com/search?q=javascirpt+popup&oq=javascirpt+popup&aqs=chrome..69i57j0i13l9.3279j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 10:54:44 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 398,
+        "curUrl": "https://www.w3schools.com/jsref/met_win_alert.asp",
+        "prevTabId": 398,
+        "prevUrl": "https://www.google.com/search?q=javascirpt+alert&sxsrf=ALiCzsat1p6kcG8QEQCircMCRvdzvUc82A%3A1656518078116&ei=vnW8YtPcBrLUkPIPw-GPgAg&ved=0ahUKEwjTs_DcgtP4AhUyKkQIHcPwA4AQ4dUDCA4&uact=5&oq=javascirpt+alert&gs_lcp=Cgdnd3Mtd2l6EAMyCggAELEDEIMBEAoyBwgAELEDEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAo6BwgjELECECc6BAgAEEM6BwguENQCEApKBAhBGABKBAhGGABQAFinBWDwBWgAcAF4AIABigGIAZ0FkgEDMS41mAEAoAEBwAEB&sclient=gws-wiz",
+        "time": "6/29/2022, 10:54:45 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 398,
+        "curUrl": "https://www.google.com/search?q=flask+template+load+static+files&oq=flask+template+load+static+files&aqs=chrome..69i57j33i160l4j33i22i29i30l5.3632j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 398,
+        "prevUrl": "https://www.w3schools.com/jsref/met_win_alert.asp",
+        "time": "6/29/2022, 10:58:15 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 398,
+        "curUrl": "https://stackoverflow.com/questions/20646822/how-to-serve-static-files-in-flask",
+        "prevTabId": 398,
+        "prevUrl": "https://www.google.com/search?q=flask+template+load+static+files&oq=flask+template+load+static+files&aqs=chrome..69i57j33i160l4j33i22i29i30l5.3632j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 10:58:17 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 398,
+        "curUrl": "https://www.google.com/search?q=flask+template+load+static+files&oq=flask+template+load+static+files&aqs=chrome..69i57j33i160l4j33i22i29i30l5.3632j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 398,
+        "prevUrl": "https://stackoverflow.com/questions/20646822/how-to-serve-static-files-in-flask",
+        "time": "6/29/2022, 10:58:28 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 398,
+        "curUrl": "https://stackoverflow.com/questions/55933447/serving-static-files-from-static-folder-with-flask",
+        "prevTabId": 398,
+        "prevUrl": "https://www.google.com/search?q=flask+template+load+static+files&oq=flask+template+load+static+files&aqs=chrome..69i57j33i160l4j33i22i29i30l5.3632j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 10:58:35 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 400,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 400,
+        "prevUrl": "",
+        "time": "6/29/2022, 11:00:13 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 400,
+        "curUrl": "https://www.google.com/search?q=mem+emoji&oq=mem+emoji&aqs=chrome..69i57j0i10i433j0i10l8.5480j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 400,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 11:00:21 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 400,
+        "curUrl": "https://www.google.com/search?q=meme+emoji&sxsrf=ALiCzsZDZIQdx-9q8yfQHwEGN3fhaEWOnw:1656518419487&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj8_tP_g9P4AhX3J0QIHXR_BEUQ_AUoAXoECAEQAw&biw=1092&bih=921&dpr=1",
+        "prevTabId": 400,
+        "prevUrl": "https://www.google.com/search?q=mem+emoji&oq=mem+emoji&aqs=chrome..69i57j0i10i433j0i10l8.5480j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 11:00:24 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 400,
+        "curUrl": "https://www.google.com/search?q=flask+upload+an+image&oq=flask+submit+an+image&aqs=chrome.1.69i57j0i22i30l9.9039j0j9&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 400,
+        "prevUrl": "https://www.google.com/search?q=meme+emoji&sxsrf=ALiCzsZDZIQdx-9q8yfQHwEGN3fhaEWOnw:1656518419487&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj8_tP_g9P4AhX3J0QIHXR_BEUQ_AUoAXoECAEQAw&biw=1092&bih=921&dpr=1",
+        "time": "6/29/2022, 11:02:58 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 400,
+        "curUrl": "https://stackoverflow.com/questions/44926465/upload-image-in-flask",
+        "prevTabId": 400,
+        "prevUrl": "https://www.google.com/search?q=flask+upload+an+image&oq=flask+submit+an+image&aqs=chrome.1.69i57j0i22i30l9.9039j0j9&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 11:03:00 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/?",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 11:04:45 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/?",
+        "time": "6/29/2022, 11:05:07 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 400,
+        "curUrl": "https://www.google.com/search?q=flask+pass+variable+to+template&oq=flask+pass+variabl&aqs=chrome.0.0i20i263i512l2j69i57j0i512l7.6344j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 400,
+        "prevUrl": "https://stackoverflow.com/questions/44926465/upload-image-in-flask",
+        "time": "6/29/2022, 11:06:19 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 400,
+        "curUrl": "https://stackoverflow.com/questions/45149420/pass-variable-from-python-flask-to-html-in-render-template",
+        "prevTabId": 400,
+        "prevUrl": "https://www.google.com/search?q=flask+pass+variable+to+template&oq=flask+pass+variabl&aqs=chrome.0.0i20i263i512l2j69i57j0i512l7.6344j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 11:06:21 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 400,
+        "curUrl": "https://www.google.com/search?q=flask+pass+variable+to+template&oq=flask+pass+variabl&aqs=chrome.0.0i20i263i512l2j69i57j0i512l7.6344j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 400,
+        "prevUrl": "https://stackoverflow.com/questions/45149420/pass-variable-from-python-flask-to-html-in-render-template",
+        "time": "6/29/2022, 11:06:28 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 400,
+        "curUrl": "https://thewebdev.info/2022/04/03/how-to-pass-variables-from-python-flask-to-javascript/",
+        "prevTabId": 400,
+        "prevUrl": "https://www.google.com/search?q=flask+pass+variable+to+template&oq=flask+pass+variabl&aqs=chrome.0.0i20i263i512l2j69i57j0i512l7.6344j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 11:06:33 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 400,
+        "curUrl": "https://www.google.com/search?q=flask+pass+variable+to+template&oq=flask+pass+variabl&aqs=chrome.0.0i20i263i512l2j69i57j0i512l7.6344j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 400,
+        "prevUrl": "https://thewebdev.info/2022/04/03/how-to-pass-variables-from-python-flask-to-javascript/",
+        "time": "6/29/2022, 11:06:35 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 400,
+        "curUrl": "https://stackoverflow.com/questions/51726922/how-to-pass-variables-between-html-pages-using-flask",
+        "prevTabId": 400,
+        "prevUrl": "https://www.google.com/search?q=flask+pass+variable+to+template&oq=flask+pass+variabl&aqs=chrome.0.0i20i263i512l2j69i57j0i512l7.6344j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 11:06:37 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 403,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 403,
+        "prevUrl": "",
+        "time": "6/29/2022, 11:07:13 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 403,
+        "curUrl": "https://www.google.com/search?q=flask+return+json&oq=flask+return+json&aqs=chrome..69i57j0i20i263i512j0i512l8.2391j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 403,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 11:07:17 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 403,
+        "curUrl": "https://stackoverflow.com/questions/13081532/return-json-response-from-flask-view",
+        "prevTabId": 403,
+        "prevUrl": "https://www.google.com/search?q=flask+return+json&oq=flask+return+json&aqs=chrome..69i57j0i20i263i512j0i512l8.2391j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 11:07:19 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 11:09:56 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 11:10:37 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 403,
+        "curUrl": "https://www.google.com/search?q=flask+return+a+url&oq=flask+return+a+url&aqs=chrome..69i57j0i22i30l3j0i390l4.2200j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 403,
+        "prevUrl": "https://stackoverflow.com/questions/13081532/return-json-response-from-flask-view",
+        "time": "6/29/2022, 11:11:12 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 403,
+        "curUrl": "https://stackoverflow.com/questions/14343812/redirecting-to-url-in-flask",
+        "prevTabId": 403,
+        "prevUrl": "https://www.google.com/search?q=flask+return+a+url&oq=flask+return+a+url&aqs=chrome..69i57j0i22i30l3j0i390l4.2200j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 11:11:14 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 404,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 404,
+        "prevUrl": "",
+        "time": "6/29/2022, 11:11:29 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.google.com/search?q=python+pass+variable+to+redirect&oq=python+pass+var+in+redire&aqs=chrome.1.69i57j0i22i30.7143j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 404,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 11:11:41 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://stackoverflow.com/questions/17057191/redirect-while-passing-arguments",
+        "prevTabId": 404,
+        "prevUrl": "https://www.google.com/search?q=python+pass+variable+to+redirect&oq=python+pass+var+in+redire&aqs=chrome.1.69i57j0i22i30.7143j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 11:11:43 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 405,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 405,
+        "prevUrl": "",
+        "time": "6/29/2022, 11:12:05 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 405,
+        "curUrl": "https://www.google.com/search?q=flask+redirec+import&oq=flask+redirec+import&aqs=chrome..69i57j0i10i22i30j0i22i30l3j69i60.1905j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 405,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 11:12:08 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 405,
+        "curUrl": "https://www.google.com/search?q=flask+redirect&sxsrf=ALiCzsb9RMDyy_ZbFy3t4yuZV6qBMajtpA%3A1656519126589&ei=1nm8Yte-I9DVkPIPrcu_yAY&ved=0ahUKEwjXgerQhtP4AhXQKkQIHa3lD2kQ4dUDCA4&uact=5&oq=flask+redirect&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGABKBAhGGABQAFgAYC5oAHABeACAAQCIAQCSAQCYAQCgAQHAAQE&sclient=gws-wiz",
+        "prevTabId": 405,
+        "prevUrl": "https://www.google.com/search?q=flask+redirec+import&oq=flask+redirec+import&aqs=chrome..69i57j0i10i22i30j0i22i30l3j69i60.1905j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 11:12:13 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 405,
+        "curUrl": "https://www.tutorialspoint.com/flask/flask_redirect_and_errors.htm",
+        "prevTabId": 405,
+        "prevUrl": "https://www.google.com/search?q=flask+redirect&sxsrf=ALiCzsb9RMDyy_ZbFy3t4yuZV6qBMajtpA%3A1656519126589&ei=1nm8Yte-I9DVkPIPrcu_yAY&ved=0ahUKEwjXgerQhtP4AhXQKkQIHa3lD2kQ4dUDCA4&uact=5&oq=flask+redirect&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGABKBAhGGABQAFgAYC5oAHABeACAAQCIAQCSAQCYAQCgAQHAAQE&sclient=gws-wiz",
+        "time": "6/29/2022, 11:12:16 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.google.com/search?q=flask+url_for&oq=flask+url_for&aqs=chrome.0.0i512l5j0i20i263i512j0i512l4.4543j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 404,
+        "prevUrl": "https://stackoverflow.com/questions/17057191/redirect-while-passing-arguments",
+        "time": "6/29/2022, 11:13:45 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://stackoverflow.com/questions/7478366/create-dynamic-urls-in-flask-with-url-for",
+        "prevTabId": 404,
+        "prevUrl": "https://www.google.com/search?q=flask+url_for&oq=flask+url_for&aqs=chrome.0.0i512l5j0i20i263i512j0i512l4.4543j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 11:13:47 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 11:16:40 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 11:16:53 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 11:16:57 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 11:18:25 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 11:18:33 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 11:18:36 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/ben",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 11:20:43 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/ben",
+        "time": "6/29/2022, 11:20:48 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/about",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 11:20:50 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/ben",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/about",
+        "time": "6/29/2022, 11:20:51 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/ben",
+        "time": "6/29/2022, 11:20:52 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/about",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 11:20:53 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/about",
+        "time": "6/29/2022, 11:20:54 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.google.com/search?q=flask+go+to+link+from+template&oq=flask+go+to+link+from+template&aqs=chrome..69i57j33i160j33i22i29i30i395.6751j1j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 404,
+        "prevUrl": "https://stackoverflow.com/questions/7478366/create-dynamic-urls-in-flask-with-url-for",
+        "time": "6/29/2022, 11:21:11 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://stackoverflow.com/questions/11124940/creating-link-to-an-url-of-flask-app-in-jinja2-template",
+        "prevTabId": 404,
+        "prevUrl": "https://www.google.com/search?q=flask+go+to+link+from+template&oq=flask+go+to+link+from+template&aqs=chrome..69i57j33i160j33i22i29i30i395.6751j1j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 11:21:12 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.google.com/search?q=flask+go+to+link+from+template&oq=flask+go+to+link+from+template&aqs=chrome..69i57j33i160j33i22i29i30i395.6751j1j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 404,
+        "prevUrl": "https://stackoverflow.com/questions/11124940/creating-link-to-an-url-of-flask-app-in-jinja2-template",
+        "time": "6/29/2022, 11:21:35 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://stackoverflow.com/questions/27539309/how-do-i-create-a-link-to-another-html-page",
+        "prevTabId": 404,
+        "prevUrl": "https://www.google.com/search?q=flask+go+to+link+from+template&oq=flask+go+to+link+from+template&aqs=chrome..69i57j33i160j33i22i29i30i395.6751j1j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 11:21:38 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 11:22:01 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 11:22:03 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 11:22:10 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 11:22:13 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 11:22:15 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 11:22:17 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 11:24:27 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 11:24:31 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 295,
+        "curUrl": "https://www.youtube.com/watch?v=jGXY98LdMOk&list=TLPQMjkwNjIwMjLfvHK1VMsOhA&index=4",
+        "prevTabId": 295,
+        "prevUrl": "https://www.youtube.com/watch?v=T-3IZvriEzM&list=TLPQMjkwNjIwMjLfvHK1VMsOhA&index=3&ab_channel=nkmusic",
+        "time": "6/29/2022, 11:46:33 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 295,
+        "curUrl": "https://www.youtube.com/watch?v=jGXY98LdMOk&list=TLPQMjkwNjIwMjLfvHK1VMsOhA&index=4&ab_channel=nkmusic",
+        "prevTabId": 295,
+        "prevUrl": "https://www.youtube.com/watch?v=jGXY98LdMOk&list=TLPQMjkwNjIwMjLfvHK1VMsOhA&index=4",
+        "time": "6/29/2022, 11:46:33 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 295,
+        "curUrl": "https://www.youtube.com/watch?v=jGXY98LdMOk&list=TLPQMjkwNjIwMjLfvHK1VMsOhA&index=4",
+        "prevTabId": 295,
+        "prevUrl": "https://www.youtube.com/watch?v=jGXY98LdMOk&list=TLPQMjkwNjIwMjLfvHK1VMsOhA&index=4&ab_channel=nkmusic",
+        "time": "6/29/2022, 11:46:34 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 295,
+        "curUrl": "https://www.youtube.com/watch?v=jGXY98LdMOk&list=TLPQMjkwNjIwMjLfvHK1VMsOhA&index=4&ab_channel=nkmusic",
+        "prevTabId": 295,
+        "prevUrl": "https://www.youtube.com/watch?v=jGXY98LdMOk&list=TLPQMjkwNjIwMjLfvHK1VMsOhA&index=4",
+        "time": "6/29/2022, 11:46:34 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 1:39:10 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/ben",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 1:39:13 PM"
+    },
+    {
+        "action": "hyperlink opened in new window",
+        "curTabId": 345,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAFSO3YFcoHZKoMsJSUd5AxE%3D",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/ben",
+        "time": "6/29/2022, 1:39:50 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 345,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAOYU1aSej1pEgrPaeUXoIDQ%3D",
+        "prevTabId": 345,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAFSO3YFcoHZKoMsJSUd5AxE%3D",
+        "time": "6/29/2022, 1:39:51 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/ben",
+        "time": "6/29/2022, 1:40:02 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.google.com/search?q=flask+upload+an+image&oq=flask+up&aqs=chrome.1.69i57j69i59j0i512l5j69i60.3783j1j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 404,
+        "prevUrl": "https://stackoverflow.com/questions/27539309/how-do-i-create-a-link-to-another-html-page",
+        "time": "6/29/2022, 1:40:35 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://stackoverflow.com/questions/36714722/how-to-upload-image-by-flask",
+        "prevTabId": 404,
+        "prevUrl": "https://www.google.com/search?q=flask+upload+an+image&oq=flask+up&aqs=chrome.1.69i57j69i59j0i512l5j69i60.3783j1j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 1:40:41 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.google.com/search?q=flask+upload+an+image&oq=flask+up&aqs=chrome.1.69i57j69i59j0i512l5j69i60.3783j1j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 404,
+        "prevUrl": "https://stackoverflow.com/questions/36714722/how-to-upload-image-by-flask",
+        "time": "6/29/2022, 1:40:49 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.google.com/search?q=send+image+to+flask+server&sxsrf=ALiCzsa7Sn-BYevwLctoZxV0qBlz560v7A%3A1656528032048&ei=oJy8YqG7AonXkPIPwe6fmAs&oq=submit+image+to+flask&gs_lcp=Cgdnd3Mtd2l6EAMYADIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWOgQIIxAnOgUIABCRAjoECAAQQzoKCAAQsQMQgwEQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6BAguECc6EQguEIAEELEDEIMBEMcBEKMCOgsILhCABBCxAxCDAToFCAAQgAQ6DggAEIAEELEDEIMBEMkDOgUIABCSAzoHCAAQsQMQQzoICAAQgAQQsQM6CwgAEIAEELEDEIMBOgoILhCxAxDUAhBDOhAIABCABBCxAxCDARBGEP8BOgoIABCABBCHAhAUOhAILhCxAxCDARDHARCvARAKOgQIABAKOgUIABCGAzoICAAQHhAPEBZKBAhBGABKBAhGGABQAFjdJ2DGMGgAcAB4AYABqQGIAc8RkgEFMTAuMTGYAQCgAQHAAQE&sclient=gws-wiz",
+        "prevTabId": 404,
+        "prevUrl": "https://www.google.com/search?q=flask+upload+an+image&oq=flask+up&aqs=chrome.1.69i57j69i59j0i512l5j69i60.3783j1j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 1:41:02 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.google.com/search?q=let+user+submit+an+image+to+flask&oq=let+user+submit+an+image+to+flask&aqs=chrome..69i57j33i160l3.3865j1j9&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 404,
+        "prevUrl": "https://www.google.com/search?q=send+image+to+flask+server&sxsrf=ALiCzsa7Sn-BYevwLctoZxV0qBlz560v7A%3A1656528032048&ei=oJy8YqG7AonXkPIPwe6fmAs&oq=submit+image+to+flask&gs_lcp=Cgdnd3Mtd2l6EAMYADIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWOgQIIxAnOgUIABCRAjoECAAQQzoKCAAQsQMQgwEQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6BAguECc6EQguEIAEELEDEIMBEMcBEKMCOgsILhCABBCxAxCDAToFCAAQgAQ6DggAEIAEELEDEIMBEMkDOgUIABCSAzoHCAAQsQMQQzoICAAQgAQQsQM6CwgAEIAEELEDEIMBOgoILhCxAxDUAhBDOhAIABCABBCxAxCDARBGEP8BOgoIABCABBCHAhAUOhAILhCxAxCDARDHARCvARAKOgQIABAKOgUIABCGAzoICAAQHhAPEBZKBAhBGABKBAhGGABQAFjdJ2DGMGgAcAB4AYABqQGIAc8RkgEFMTAuMTGYAQCgAQHAAQE&sclient=gws-wiz",
+        "time": "6/29/2022, 1:41:11 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://roytuts.com/upload-and-display-image-using-python-flask/",
+        "prevTabId": 404,
+        "prevUrl": "https://www.google.com/search?q=let+user+submit+an+image+to+flask&oq=let+user+submit+an+image+to+flask&aqs=chrome..69i57j33i160l3.3865j1j9&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 1:41:23 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.google.com/search?q=let+user+submit+an+image+to+flask&oq=let+user+submit+an+image+to+flask&aqs=chrome..69i57j33i160l3.3865j1j9&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 404,
+        "prevUrl": "https://roytuts.com/upload-and-display-image-using-python-flask/",
+        "time": "6/29/2022, 1:41:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.google.com/search?q=submit+image+in+html+form&oq=submit+image+in+html+form&aqs=chrome..69i57j0i512j0i22i30l8.5542j0j9&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 404,
+        "prevUrl": "https://www.google.com/search?q=let+user+submit+an+image+to+flask&oq=let+user+submit+an+image+to+flask&aqs=chrome..69i57j33i160l3.3865j1j9&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 1:41:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.google.com/search?q=let+user+submit+an+image+file&sxsrf=ALiCzsbeHubjdRyqbYNEprAitOAB7JpfNQ%3A1656528103490&ei=55y8Ypm1HebMkPIP2N6ImAw&ved=0ahUKEwjZxKyJqNP4AhVmJkQIHVgvAsMQ4dUDCA4&uact=5&oq=let+user+submit+an+image+file&gs_lcp=Cgdnd3Mtd2l6EAMyCAghEKABEIsDMggIIRCgARCLAzIFCCEQoAEyBQghEKsCMgUIIRCrAjoECCMQJzoFCAAQkQI6EQguEIAEELEDEIMBEMcBEKMCOhEILhCABBCxAxCDARDHARDRAzoUCC4QgAQQsQMQgwEQxwEQowIQ1AI6CAguELEDEIMBOgQIABBDOggILhCABBCxAzoICAAQgAQQsQM6BQgAEIAEOgsILhCABBCxAxCDAToLCC4QgAQQsQMQ1AI6BwguENQCEEM6BQguEIAEOggIABCABBDJAzoKCAAQgAQQhwIQFDoGCAAQHhAWOgkIABAeEMkDEBY6CAgAEB4QDxAWSgQIQRgASgQIRhgAUABYnhJg9xJoAHABeACAAYwBiAGFFpIBBTE2LjEymAEAoAEBuAEDwAEB&sclient=gws-wiz",
+        "prevTabId": 404,
+        "prevUrl": "https://www.google.com/search?q=submit+image+in+html+form&oq=submit+image+in+html+form&aqs=chrome..69i57j0i512j0i22i30l8.5542j0j9&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 1:41:55 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.google.com/search?q=let+user+submit+an+image+file+html&sxsrf=ALiCzsZ9ztaO6EYcaixatsm-aKqAkHg_jA%3A1656528112649&ei=8Jy8Yo6iJ6vXkPIPzICCkAs&ved=0ahUKEwiO2tuNqNP4AhWrK0QIHUyAALIQ4dUDCA4&uact=5&oq=let+user+submit+an+image+file+html&gs_lcp=Cgdnd3Mtd2l6EAMyCAghEKsCEIsDOgcIABBHELADOgUIIRCgAToICCEQoAEQiwNKBAhBGABKBAhGGABQywRY0wdggwloAXABeAGAAaABiAGrBZIBAzAuNZgBAKABAcgBCLgBA8ABAQ&sclient=gws-wiz",
+        "prevTabId": 404,
+        "prevUrl": "https://www.google.com/search?q=let+user+submit+an+image+file&sxsrf=ALiCzsbeHubjdRyqbYNEprAitOAB7JpfNQ%3A1656528103490&ei=55y8Ypm1HebMkPIP2N6ImAw&ved=0ahUKEwjZxKyJqNP4AhVmJkQIHVgvAsMQ4dUDCA4&uact=5&oq=let+user+submit+an+image+file&gs_lcp=Cgdnd3Mtd2l6EAMyCAghEKABEIsDMggIIRCgARCLAzIFCCEQoAEyBQghEKsCMgUIIRCrAjoECCMQJzoFCAAQkQI6EQguEIAEELEDEIMBEMcBEKMCOhEILhCABBCxAxCDARDHARDRAzoUCC4QgAQQsQMQgwEQxwEQowIQ1AI6CAguELEDEIMBOgQIABBDOggILhCABBCxAzoICAAQgAQQsQM6BQgAEIAEOgsILhCABBCxAxCDAToLCC4QgAQQsQMQ1AI6BwguENQCEEM6BQguEIAEOggIABCABBDJAzoKCAAQgAQQhwIQFDoGCAAQHhAWOgkIABAeEMkDEBY6CAgAEB4QDxAWSgQIQRgASgQIRhgAUABYnhJg9xJoAHABeACAAYwBiAGFFpIBBTE2LjEymAEAoAEBuAEDwAEB&sclient=gws-wiz",
+        "time": "6/29/2022, 1:42:00 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file",
+        "prevTabId": 404,
+        "prevUrl": "https://www.google.com/search?q=let+user+submit+an+image+file+html&sxsrf=ALiCzsZ9ztaO6EYcaixatsm-aKqAkHg_jA%3A1656528112649&ei=8Jy8Yo6iJ6vXkPIPzICCkAs&ved=0ahUKEwiO2tuNqNP4AhWrK0QIHUyAALIQ4dUDCA4&uact=5&oq=let+user+submit+an+image+file+html&gs_lcp=Cgdnd3Mtd2l6EAMyCAghEKsCEIsDOgcIABBHELADOgUIIRCgAToICCEQoAEQiwNKBAhBGABKBAhGGABQywRY0wdggwloAXABeAGAAaABiAGrBZIBAzAuNZgBAKABAcgBCLgBA8ABAQ&sclient=gws-wiz",
+        "time": "6/29/2022, 1:42:03 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.google.com/search?q=let+user+submit+an+image+file+html&sxsrf=ALiCzsZ9ztaO6EYcaixatsm-aKqAkHg_jA%3A1656528112649&ei=8Jy8Yo6iJ6vXkPIPzICCkAs&ved=0ahUKEwiO2tuNqNP4AhWrK0QIHUyAALIQ4dUDCA4&uact=5&oq=let+user+submit+an+image+file+html&gs_lcp=Cgdnd3Mtd2l6EAMyCAghEKsCEIsDOgcIABBHELADOgUIIRCgAToICCEQoAEQiwNKBAhBGABKBAhGGABQywRY0wdggwloAXABeAGAAaABiAGrBZIBAzAuNZgBAKABAcgBCLgBA8ABAQ&sclient=gws-wiz",
+        "prevTabId": 404,
+        "prevUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file",
+        "time": "6/29/2022, 1:43:11 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 404,
+        "curUrl": "https://www.tutorialspoint.com/How-do-we-upload-external-file-on-a-website-using-HTML-forms",
+        "prevTabId": 404,
+        "prevUrl": "https://www.google.com/search?q=let+user+submit+an+image+file+html&sxsrf=ALiCzsZ9ztaO6EYcaixatsm-aKqAkHg_jA%3A1656528112649&ei=8Jy8Yo6iJ6vXkPIPzICCkAs&ved=0ahUKEwiO2tuNqNP4AhWrK0QIHUyAALIQ4dUDCA4&uact=5&oq=let+user+submit+an+image+file+html&gs_lcp=Cgdnd3Mtd2l6EAMyCAghEKsCEIsDOgcIABBHELADOgUIIRCgAToICCEQoAEQiwNKBAhBGABKBAhGGABQywRY0wdggwloAXABeAGAAaABiAGrBZIBAzAuNZgBAKABAcgBCLgBA8ABAQ&sclient=gws-wiz",
+        "time": "6/29/2022, 1:43:15 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 410,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 410,
+        "prevUrl": "",
+        "time": "6/29/2022, 1:44:41 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 410,
+        "curUrl": "https://www.google.com/search?q=flask+get+post+data&oq=flask+get+POST+&aqs=chrome.0.0i512j69i57j0i512l7.1983j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 410,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 1:44:45 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 410,
+        "curUrl": "https://stackoverflow.com/questions/10434599/get-the-data-received-in-a-flask-request",
+        "prevTabId": 410,
+        "prevUrl": "https://www.google.com/search?q=flask+get+post+data&oq=flask+get+POST+&aqs=chrome.0.0i512j69i57j0i512l7.1983j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 1:44:47 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 1:45:53 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 412,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 412,
+        "prevUrl": "",
+        "time": "6/29/2022, 1:46:10 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 412,
+        "curUrl": "https://www.google.com/search?q=python+display+an+image+file&oq=python+display+an+image+file&aqs=chrome..69i57j0i22i30l5j0i390j69i60.3303j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 412,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 1:46:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 412,
+        "curUrl": "https://pythonexamples.org/python-pillow-show-display-image/",
+        "prevTabId": 412,
+        "prevUrl": "https://www.google.com/search?q=python+display+an+image+file&oq=python+display+an+image+file&aqs=chrome..69i57j0i22i30l5j0i390j69i60.3303j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 1:46:20 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 1:46:27 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 1:47:53 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 1:47:59 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 1:48:05 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 1:48:18 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 1:48:28 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 1:48:31 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 410,
+        "curUrl": "https://www.google.com/search?q=flask+let+user+upload+image+to+database&oq=flask+let+user+upload+image+to+database&aqs=chrome..69i57j33i160l2j33i299i395l3.5456j1j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 410,
+        "prevUrl": "https://stackoverflow.com/questions/10434599/get-the-data-received-in-a-flask-request",
+        "time": "6/29/2022, 1:48:52 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab but new tab is not active tab",
+        "curTabId": 415,
+        "curUrl": "https://flask.palletsprojects.com/en/2.1.x/patterns/fileuploads/",
+        "prevTabId": 410,
+        "prevUrl": "https://www.google.com/search?q=flask+let+user+upload+image+to+database&oq=flask+let+user+upload+image+to+database&aqs=chrome..69i57j33i160l2j33i299i395l3.5456j1j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 1:48:59 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 416,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 416,
+        "prevUrl": "",
+        "time": "6/29/2022, 1:51:36 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 416,
+        "curUrl": "https://www.google.com/search?q=flask+request.files&oq=flask+request.files&aqs=chrome.0.0i20i263i512l2j0i512l8.1823j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 416,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 1:51:39 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 416,
+        "curUrl": "https://flask.palletsprojects.com/en/2.1.x/patterns/fileuploads/",
+        "prevTabId": 416,
+        "prevUrl": "https://www.google.com/search?q=flask+request.files&oq=flask+request.files&aqs=chrome.0.0i20i263i512l2j0i512l8.1823j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 1:51:41 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 416,
+        "curUrl": "https://www.google.com/search?q=flask+request.files&oq=flask+request.files&aqs=chrome.0.0i20i263i512l2j0i512l8.1823j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 416,
+        "prevUrl": "https://flask.palletsprojects.com/en/2.1.x/patterns/fileuploads/",
+        "time": "6/29/2022, 1:51:43 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 416,
+        "curUrl": "https://tedboy.github.io/flask/generated/generated/flask.Request.files.html",
+        "prevTabId": 416,
+        "prevUrl": "https://www.google.com/search?q=flask+request.files&oq=flask+request.files&aqs=chrome.0.0i20i263i512l2j0i512l8.1823j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 1:51:50 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 417,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 417,
+        "prevUrl": "",
+        "time": "6/29/2022, 1:54:52 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 417,
+        "curUrl": "https://www.google.com/search?q=mem+emoji&oq=mem+&aqs=chrome.0.69i59l2j69i57j0i67l2j69i61l3.1982j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 417,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 1:54:56 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 417,
+        "curUrl": "https://www.google.com/search?q=meme+emoji&sxsrf=ALiCzsYl0UEOfLRxuFZtnMc_zXJbGQpW1A:1656528893273&tbm=isch&source=iu&ictx=1&vet=1&fir=n6tghK2gFgRFiM%252CM2jSYq0R5M-p1M%252C_%253BxYRUNxLoVUXXHM%252CpQw_e_eFuWnVmM%252C_%253BuqN8nQaSxl0H8M%252Ck2iRgeW8KkHMFM%252C_%253Bskhv_CBkE6TvdM%252CBVN2Ttsg3SV0GM%252C_%253BADFkjnsvpQC7kM%252CyRhUCJ9IOAg7UM%252C_%253BdzBmfgTBIb81MM%252CnXb9fmKxjEaP_M%252C_%253BcCNLGo0TijM9GM%252COPuIEPqjMAV7TM%252C_%253BYUc9RQwOrTf8OM%252CeYmly22mbMvcLM%252C_%253BT7AAV3XUrGCXUM%252CcMiISXaSZ9joyM%252C_%253BQ9losDwU5fjzhM%252CFuw43q58Gn-bMM%252C_%253BvxzQLSYiUDAYIM%252CLGrTIqfVTWIU_M%252C_%253BKJVlblwehNeUMM%252CxGls5xAqfDjFnM%252C_%253BOCZdH9dKyTp6SM%252CZ7p_6VaPHbZSaM%252C_%253Bvv1BygqLZTWRiM%252CREkChaTdIEvDWM%252C_%253Bt31CPRfti0ho5M%252CREkChaTdIEvDWM%252C_&usg=AI4_-kQUMUrc9DqOrFljAkJFgUK8xj2pow&sa=X&ved=2ahUKEwiKl_mBq9P4AhVwIEQIHdtUAVgQ9QF6BAgLEAE#imgrc=xYRUNxLoVUXXHM",
+        "prevTabId": 417,
+        "prevUrl": "https://www.google.com/search?q=mem+emoji&oq=mem+&aqs=chrome.0.69i59l2j69i57j0i67l2j69i61l3.1982j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 1:54:59 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 417,
+        "curUrl": "https://www.google.com/search?q=meme+emoji&sxsrf=ALiCzsYl0UEOfLRxuFZtnMc_zXJbGQpW1A:1656528893273&tbm=isch&source=iu&ictx=1&vet=1&fir=n6tghK2gFgRFiM%252CM2jSYq0R5M-p1M%252C_%253BxYRUNxLoVUXXHM%252CpQw_e_eFuWnVmM%252C_%253BuqN8nQaSxl0H8M%252Ck2iRgeW8KkHMFM%252C_%253Bskhv_CBkE6TvdM%252CBVN2Ttsg3SV0GM%252C_%253BADFkjnsvpQC7kM%252CyRhUCJ9IOAg7UM%252C_%253BdzBmfgTBIb81MM%252CnXb9fmKxjEaP_M%252C_%253BcCNLGo0TijM9GM%252COPuIEPqjMAV7TM%252C_%253BYUc9RQwOrTf8OM%252CeYmly22mbMvcLM%252C_%253BT7AAV3XUrGCXUM%252CcMiISXaSZ9joyM%252C_%253BQ9losDwU5fjzhM%252CFuw43q58Gn-bMM%252C_%253BvxzQLSYiUDAYIM%252CLGrTIqfVTWIU_M%252C_%253BKJVlblwehNeUMM%252CxGls5xAqfDjFnM%252C_%253BOCZdH9dKyTp6SM%252CZ7p_6VaPHbZSaM%252C_%253Bvv1BygqLZTWRiM%252CREkChaTdIEvDWM%252C_%253Bt31CPRfti0ho5M%252CREkChaTdIEvDWM%252C_&usg=AI4_-kQUMUrc9DqOrFljAkJFgUK8xj2pow&sa=X&ved=2ahUKEwiKl_mBq9P4AhVwIEQIHdtUAVgQ9QF6BAgLEAE#imgrc=3qNgDCW0EkOIWM",
+        "prevTabId": 417,
+        "prevUrl": "https://www.google.com/search?q=meme+emoji&sxsrf=ALiCzsYl0UEOfLRxuFZtnMc_zXJbGQpW1A:1656528893273&tbm=isch&source=iu&ictx=1&vet=1&fir=n6tghK2gFgRFiM%252CM2jSYq0R5M-p1M%252C_%253BxYRUNxLoVUXXHM%252CpQw_e_eFuWnVmM%252C_%253BuqN8nQaSxl0H8M%252Ck2iRgeW8KkHMFM%252C_%253Bskhv_CBkE6TvdM%252CBVN2Ttsg3SV0GM%252C_%253BADFkjnsvpQC7kM%252CyRhUCJ9IOAg7UM%252C_%253BdzBmfgTBIb81MM%252CnXb9fmKxjEaP_M%252C_%253BcCNLGo0TijM9GM%252COPuIEPqjMAV7TM%252C_%253BYUc9RQwOrTf8OM%252CeYmly22mbMvcLM%252C_%253BT7AAV3XUrGCXUM%252CcMiISXaSZ9joyM%252C_%253BQ9losDwU5fjzhM%252CFuw43q58Gn-bMM%252C_%253BvxzQLSYiUDAYIM%252CLGrTIqfVTWIU_M%252C_%253BKJVlblwehNeUMM%252CxGls5xAqfDjFnM%252C_%253BOCZdH9dKyTp6SM%252CZ7p_6VaPHbZSaM%252C_%253Bvv1BygqLZTWRiM%252CREkChaTdIEvDWM%252C_%253Bt31CPRfti0ho5M%252CREkChaTdIEvDWM%252C_&usg=AI4_-kQUMUrc9DqOrFljAkJFgUK8xj2pow&sa=X&ved=2ahUKEwiKl_mBq9P4AhVwIEQIHdtUAVgQ9QF6BAgLEAE#imgrc=xYRUNxLoVUXXHM",
+        "time": "6/29/2022, 1:55:05 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 1:55:28 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 1:55:38 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 419,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 419,
+        "prevUrl": "",
+        "time": "6/29/2022, 1:56:13 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 419,
+        "curUrl": "https://www.google.com/search?q=html+form+enctype&oq=html+form+enc&aqs=chrome.1.69i57j0i512l3j0i20i263i512j0i512l3j0i390l2.2064j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 419,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 1:56:16 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 419,
+        "curUrl": "https://www.w3schools.com/tags/att_form_enctype.asp",
+        "prevTabId": 419,
+        "prevUrl": "https://www.google.com/search?q=html+form+enctype&oq=html+form+enc&aqs=chrome.1.69i57j0i512l3j0i20i263i512j0i512l3j0i390l2.2064j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 1:56:20 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 1:56:48 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 1:56:49 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 1:56:52 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 1:57:18 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 1:57:19 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 1:58:05 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/classifyImage",
+        "time": "6/29/2022, 1:58:11 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/classifyImage",
+        "prevTabId": 387,
+        "prevUrl": "http://localhost:5000/",
+        "time": "6/29/2022, 1:58:18 PM"
     }
 ]

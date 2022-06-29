@@ -1,35 +1,2 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git logX
-commit 3687118974dada33d442326702d782033fee2981 (HEAD -> master)X
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 13:59:22 2022 -0500X
-X
-    [Commit time: 6/29/2022, 1:59:22 PM]X
-X
-commit 634c58858d817a04e9517798aefbddeb7eee886dX
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 10:37:57 2022 -0500X
-X
-    [Commit time: 6/29/2022, 10:37:57 AM]X
-:Xcommit 3687118974dada33d442326702d782033fee2981 (HEAD -> master)X
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 13:59:22 2022 -0500X
-X
-    [Commit time: 6/29/2022, 1:59:22 PM]X
-X
-commit 634c58858d817a04e9517798aefbddeb7eee886dX
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 10:37:57 2022 -0500X
-X
-    [Commit time: 6/29/2022, 10:37:57 AM]X
-:Xcommit 3687118974dada33d442326702d782033fee2981 (HEAD -> master)X
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 13:59:22 2022 -0500X
-X
-    [Commit time: 6/29/2022, 1:59:22 PM]X
-X
-commit 634c58858d817a04e9517798aefbddeb7eee886dX
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 10:37:57 2022 -0500X
-X
-    [Commit time: 6/29/2022, 10:37:57 AM]X
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git add *X
 (venv) PS 

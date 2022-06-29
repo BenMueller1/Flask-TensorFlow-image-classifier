@@ -1,24 +1,10 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git logX
-commit 2645162f9ebd3bf45dcef058b978ce2d4fbd699a (HEAD -> master)X
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 10:09:00 2022 -0500X
-X
-    [Commit time: 6/29/2022, 10:09:00 AM]X
-X
-commit e42ff6ca83d3e6f90eca1e39f5ec276b57704704X
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 10:01:19 2022 -0500X
-X
-    [Commit time: 6/29/2022, 10:01:19 AM]X
-:Xcommit 2645162f9ebd3bf45dcef058b978ce2d4fbd699a (HEAD -> master)X
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 10:09:00 2022 -0500X
-X
-    [Commit time: 6/29/2022, 10:09:00 AM]X
-X
-commit e42ff6ca83d3e6f90eca1e39f5ec276b57704704X
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 10:01:19 2022 -0500X
-X
-    [Commit time: 6/29/2022, 10:01:19 AM]X
-(venv) PS 
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> cleaX
+Xclea : The term 'clea' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.X
+At line:1 char:1X
++ cleaX
++ ~~~~X
+    + CategoryInfo          : ObjectNotFound: (clea:String) [], CommandNotFoundExceptionX
+    + FullyQualifiedErrorId : CommandNotFoundExceptionX
+ X
+X(venv) PS 

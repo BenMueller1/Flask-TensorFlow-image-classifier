@@ -1,10 +1,9 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> Set-ExecutionPolocy -Scope benjm RemoteSignedX
-XSet-ExecutionPolocy : The term 'Set-ExecutionPolocy' is not recognized as the name of a cmdlet, function, script file, or operable program. Check 
-the spelling of the name, or if a path was included, verify that the path is correct and try again.X
-At line:1 char:1X
-+ Set-ExecutionPolocy -Scope benjm RemoteSignedX
-+ ~~~~~~~~~~~~~~~~~~~X
-    + CategoryInfo          : ObjectNotFound: (Set-ExecutionPolocy:String) [], CommandNotFoundExceptionX
-    + FullyQualifiedErrorId : CommandNotFoundExceptionX
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> Set-ExecutionPolicy -SCropt benjm RemoteSignedX
+XSet-ExecutionPolicy : A parameter cannot be found that matches parameter name 'SCropt'.
+At line:1 char:21X
++ Set-ExecutionPolicy -SCropt benjm RemoteSignedX
++                     ~~~~~~~X
+    + CategoryInfo          : InvalidArgument: (:) [Set-ExecutionPolicy], ParameterBindingExceptionX
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.PowerShell.Commands.SetExecutionPolicyCommandX
  X
-XPS 
+PS 

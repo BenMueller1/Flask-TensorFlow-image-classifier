@@ -1,11 +1,10 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git pushX
-Enumerating objects: 9, done.X
-Counting objects: 100% (9/9), done.X
-Delta compression using up to 8 threadsX
-Compressing objects: 100% (6/6), done.X
-Writing objects: 100% (7/7), 1.06 KiB | 1.06 MiB/s, done.X
-Total 7 (delta 1), reused 0 (delta 0), pack-reused 0X
-remote: Resolving deltas: 100% (1/1), done.X
-To https://github.com/BenMueller1/Flask-TensorFlow-image-classifier.gitX
-   27e2ac2..66febc8  master -> masterX
-PS 
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> clerX
+Xcler : The term 'cler' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.X
+At line:1 char:1X
++ clerX
++ ~~~~X
+    + CategoryInfo          : ObjectNotFound: (cler:String) [], CommandNotFoundExceptionX
+    + FullyQualifiedErrorId : CommandNotFoundExceptionX
+ X
+XPS 

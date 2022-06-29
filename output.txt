@@ -1,2 +1,2 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> .\.ven\Scripts\activate.batX
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> .ven\Scripts\activate.bat  X
 PS 

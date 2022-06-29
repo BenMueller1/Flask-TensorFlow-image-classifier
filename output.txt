@@ -1,34 +1,35 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git statusX
-XOn branch master
-Your branch is ahead of 'origin/master' by 29 commits.X
-  (use "git push" to publish your local commits)X
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git logX
+commit 3687118974dada33d442326702d782033fee2981 (HEAD -> master)X
+Author: Ben Mueller <benjm2002@gmail.com>X
+Date:   Wed Jun 29 13:59:22 2022 -0500X
 X
-Changes not staged for commit:X
-  (use "git add <file>..." to update what will be committed)X
-  (use "git restore <file>..." to discard changes in working directory)X
-Xmodified:   data
-        modified:   index.pyX
-        modified:   requirements.txtX
-        modified:   static/index.jsX
-        modified:   templates/ben.htmlX
-        modified:   templates/index.htmlX
-        modified:   templates/layout.htmlX
+    [Commit time: 6/29/2022, 1:59:22 PM]X
 X
-Untracked files:X
-  (use "git add <file>..." to include in what will be committed)X
-        templates/about.htmlX
-        templates/prediction.htmlX
+commit 634c58858d817a04e9517798aefbddeb7eee886dX
+Author: Ben Mueller <benjm2002@gmail.com>X
+Date:   Wed Jun 29 10:37:57 2022 -0500X
 X
-no changes added to commit (use "git add" and/or "git commit -a")X
-        modified:   static/index.jsX
-        modified:   templates/ben.htmlX
-        modified:   templates/index.htmlX
-        modified:   templates/layout.htmlX
+    [Commit time: 6/29/2022, 10:37:57 AM]X
+:Xcommit 3687118974dada33d442326702d782033fee2981 (HEAD -> master)X
+Author: Ben Mueller <benjm2002@gmail.com>X
+Date:   Wed Jun 29 13:59:22 2022 -0500X
 X
-Untracked files:X
-  (use "git add <file>..." to include in what will be committed)X
-        templates/about.htmlX
-        templates/prediction.htmlX
+    [Commit time: 6/29/2022, 1:59:22 PM]X
 X
-no changes added to commit (use "git add" and/or "git commit -a")X
-X(venv) PS 
+commit 634c58858d817a04e9517798aefbddeb7eee886dX
+Author: Ben Mueller <benjm2002@gmail.com>X
+Date:   Wed Jun 29 10:37:57 2022 -0500X
+X
+    [Commit time: 6/29/2022, 10:37:57 AM]X
+:Xcommit 3687118974dada33d442326702d782033fee2981 (HEAD -> master)X
+Author: Ben Mueller <benjm2002@gmail.com>X
+Date:   Wed Jun 29 13:59:22 2022 -0500X
+X
+    [Commit time: 6/29/2022, 1:59:22 PM]X
+X
+commit 634c58858d817a04e9517798aefbddeb7eee886dX
+Author: Ben Mueller <benjm2002@gmail.com>X
+Date:   Wed Jun 29 10:37:57 2022 -0500X
+X
+    [Commit time: 6/29/2022, 10:37:57 AM]X
+(venv) PS 

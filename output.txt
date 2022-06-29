@@ -1,20 +1,11 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier>X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X> .. > . .. .v. .ve. .ven. .ven/. .ven/b. .ven/bi. .ven/bin. .ven/bin/. .ven/bin/a. .ven/bin/ac. .ven/bin/act. .ven/bin/acti. .ven/bin/activ. .ven/bin/activa. .ven/bin/activat. .ven/bin/activate
-. : The term '.ven/bin/activate' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the 
-name, or if a path was included, verify that the path is correct and try again.X
-At line:1 char:3X
-+ . .ven/bin/activateX
-+   ~~~~~~~~~~~~~~~~~X
-    + CategoryInfo          : ObjectNotFound: (.ven/bin/activate:String) [], CommandNotFoundException
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> X
+Xssosorsorusor so sousoursourcsourcesource > source "source "\source "\esource "\ensource "\envsource "\env\source "\env\Ssource "\env\Scsource "\env\Scrsource "\env\Scrisource "\env\Scripsource "\env\Scriptsource "\env\Scriptssource "\env\Scripts\source "\env\Scripts\asource "\env\Scripts\acsource "\env\Scripts\actsource "\env\Scripts\actisource "\env\Scripts\activsource "\env\Scripts\activasource "\env\Scripts\activatsource "\env\Scripts\activatesource "\env\Scripts\activate.source "\env\Scripts\activate.bsource "\env\Scripts\activate.basource "\env\Scripts\activate.bat> source "\env\Scripts\activate.bat"
+source : The term 'source' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, 
+or if a path was included, verify that the path is correct and try again.X
+At line:1 char:1X
++ source "\env\Scripts\activate.bat"X
++ ~~~~~~X
+    + CategoryInfo          : ObjectNotFound: (source:String) [], CommandNotFoundExceptionX
     + FullyQualifiedErrorId : CommandNotFoundExceptionX
  X
 PS 

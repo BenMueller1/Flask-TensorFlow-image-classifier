@@ -70,5 +70,29 @@
         "prevTabId": 364,
         "prevUrl": "https://www.google.com/search?q=how+to+activate+python+virtual+environment+in+windows&oq=how+to+activate+&aqs=chrome.0.69i59l2j0i67j69i57j0i67j0i512l5.1935j0j4&sourceid=chrome&ie=UTF-8",
         "time": "6/29/2022, 9:37:29 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 365,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 365,
+        "prevUrl": "",
+        "time": "6/29/2022, 9:39:30 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 365,
+        "curUrl": "https://www.google.com/search?q=why+is+running+scripts+disabled+on+this+system&oq=why+is+running+scrip&aqs=chrome.0.0i512j69i57j0i390l2.2232j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 365,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 9:39:34 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 365,
+        "curUrl": "https://tecadmin.net/powershell-running-scripts-is-disabled-system/",
+        "prevTabId": 365,
+        "prevUrl": "https://www.google.com/search?q=why+is+running+scripts+disabled+on+this+system&oq=why+is+running+scrip&aqs=chrome.0.0i512j69i57j0i390l2.2232j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 9:39:38 AM"
     }
 ]

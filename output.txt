@@ -1,13 +1,10 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier>X
-X
-X
-X> .> .\.\v.\ve.\ven.\venv.\venv\.\venv\S.\venv\Sc.\venv\Scr.\venv\Scri.\venv\Scrip.\venv\Script.\venv\Scripts.\venv\Scripts\.\venv\Scripts\a.\venv\Scripts\ac.\venv\Scripts\act.\venv\Scripts\acti.\venv\Scripts\activ.\venv\Scripts\activa.\venv\Scripts\activat.\venv\Scripts\activate
-.\venv\Scripts\activate : File C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier\venv\Scripts\activate.ps1 cannot 
-be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at 
-https:/go.microsoft.com/fwlink/?LinkID=135170.X
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> Set-ExecutionPolicy RemoteSignedX
+XSet-ExecutionPolicy : Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PowerShell\1\ShellIds\Microsoft.PowerShell' is denied. To 
+change the execution policy for the default (LocalMachine) scope, start Windows PowerShell with the "Run as administrator" option. To change the    
+execution policy for the current user, run "Set-ExecutionPolicy -Scope CurrentUser".X
 At line:1 char:1X
-+ .\venv\Scripts\activateX
-+ ~~~~~~~~~~~~~~~~~~~~~~~X
-    + CategoryInfo          : SecurityError: (:) [], PSSecurityExceptionX
-    + FullyQualifiedErrorId : UnauthorizedAccessX
++ Set-ExecutionPolicy RemoteSignedX
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~X
+    + CategoryInfo          : PermissionDenied: (:) [Set-ExecutionPolicy], UnauthorizedAccessExceptionX
+    + FullyQualifiedErrorId : System.UnauthorizedAccessException,Microsoft.PowerShell.Commands.SetExecutionPolicyCommandX
 PS 

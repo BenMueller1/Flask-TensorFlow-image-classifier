@@ -366,5 +366,13 @@
         "prevTabId": 383,
         "prevUrl": "https://www.google.com/search?q=install+flask+python&sxsrf=ALiCzsZasBV0beWGxXCluJDgpiZy2Fmekg%3A1656514280285&ei=6Ga8YuD3ENrVkPIPra6oiAc&ved=0ahUKEwjgi_fJ9NL4AhXaKkQIHS0XCnEQ4dUDCA4&uact=5&oq=install+flask+python&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgQIABBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARKBAhBGABKBAhGGABQAFj9AmDJA2gAcAF4AIABbYgBwwOSAQM0LjGYAQCgAQHAAQE&sclient=gws-wiz",
         "time": "6/29/2022, 9:51:25 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 383,
+        "curUrl": "https://www.google.com/search?q=flask+imports&oq=flask+imports&aqs=chrome..69i57j0i67i433j0i67j0i67i131i433j69i60j69i61l2j69i60.1863j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 383,
+        "prevUrl": "https://flask.palletsprojects.com/en/2.1.x/installation/",
+        "time": "6/29/2022, 9:52:44 AM"
     }
 ]

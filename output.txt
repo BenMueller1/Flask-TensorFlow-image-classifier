@@ -1,3 +1,25 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> & "c:/Users/benjm/git/codeHistoriesPythonProjects/Flask TensorF
-low image classifier/venv/Scripts/Activate.ps1"X
-(venv) PS 
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> & "c:/Users/benjm/git/codeHistoriesPythonProjects/Flask 
+TensorFlow image classifier/venv/Scripts/python.exe"X
+XPython 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.X
+>>>Xdef index():
+X... 
+  File "<stdin>", line 2X
+X
+    ^X
+IndentationError: expected an indented block after function definition on line 1X
+>>>X
+XKeyboardInterrupt
+>>>Xquit()
+XPython 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32X
+Type "help", "copyright", "credits" or "license" for more information.X
+>>> def index():X
+...X
+  File "<stdin>", line 2X
+X
+    ^X
+IndentationError: expected an indented block after function definition on line 1X
+>>>X
+KeyboardInterruptX
+>>> quit()X
+X(venv) PS 

@@ -1,7 +1,24 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> & C:/Users/benjm/AppData/Local/Microsoft/WindowsApps/python3.9.
-exe "c:/Users/benjm/git/codeHistoriesPythonProjects/Flask TensorFlow image classifier/index.py"X
-checking that codeHistories is workingX
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git logX
+commit 96e4a9f5a57c78ce127de368e852a6fb57812ea6 (HEAD -> master)X
+Author: Ben Mueller <benjm2002@gmail.com>X
+Date:   Wed Jun 29 09:32:51 2022 -0500X
 X
+    [Commit time: 6/29/2022, 9:32:51 AM]X
 X
+commit 27e2ac29358127c4b681504a8f2061eb9cc23aa2 (origin/master)X
+Author: Ben Mueller <benjm2002@gmail.com>X
+Date:   Wed Jun 29 09:30:36 2022 -0500X
 X
-XPS 
+    init commitX
+:Xcommit 96e4a9f5a57c78ce127de368e852a6fb57812ea6 (HEAD -> master)X
+Author: Ben Mueller <benjm2002@gmail.com>X
+Date:   Wed Jun 29 09:32:51 2022 -0500X
+X
+    [Commit time: 6/29/2022, 9:32:51 AM]X
+X
+commit 27e2ac29358127c4b681504a8f2061eb9cc23aa2 (origin/master)X
+Author: Ben Mueller <benjm2002@gmail.com>X
+Date:   Wed Jun 29 09:30:36 2022 -0500X
+X
+    init commitX
+XPS 

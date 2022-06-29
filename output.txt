@@ -1,10 +1,3 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> Get-Execution PolicyX
-XGet-Execution : The term 'Get-Execution' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling 
-of the name, or if a path was included, verify that the path is correct and try again.X
-At line:1 char:1X
-+ Get-Execution PolicyX
-+ ~~~~~~~~~~~~~X
-    + CategoryInfo          : ObjectNotFound: (Get-Execution:String) [], CommandNotFoundExceptionX
-    + FullyQualifiedErrorId : CommandNotFoundExceptionX
- X
-XPS 
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> Get-ExecutionPolicyX
+XRestricted
+PS 

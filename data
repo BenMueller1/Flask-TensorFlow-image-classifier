@@ -142,5 +142,229 @@
         "prevTabId": 366,
         "prevUrl": "https://www.danielengberg.com/powershell-check-execution-policy/#:~:text=If%20you%20want%20to%20change,run%20the%20Set%2DExecutionPolicy%20cmdlet.&text=Press%20A%20to%20change%20the,policy%20manually%20on%20a%20client.",
         "time": "6/29/2022, 9:41:49 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 368,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 368,
+        "prevUrl": "",
+        "time": "6/29/2022, 9:42:53 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 368,
+        "curUrl": "https://www.google.com/search?q=To+change+the+execution+policy+for+the+current+user%2C+run+%22Set-ExecutionPolicy+-Scope+CurrentUser&oq=To+change+the+execution+policy+for+the+current+user%2C+run+%22Set-ExecutionPolicy+-Scope+CurrentUser&aqs=chrome..69i57.144j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 368,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 9:42:54 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 368,
+        "curUrl": "https://superuser.com/questions/936362/powershell-unable-to-set-execution-policy",
+        "prevTabId": 368,
+        "prevUrl": "https://www.google.com/search?q=To+change+the+execution+policy+for+the+current+user%2C+run+%22Set-ExecutionPolicy+-Scope+CurrentUser&oq=To+change+the+execution+policy+for+the+current+user%2C+run+%22Set-ExecutionPolicy+-Scope+CurrentUser&aqs=chrome..69i57.144j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 9:42:56 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 368,
+        "curUrl": "https://www.google.com/search?q=how+to+run+powershell+as+admin&oq=how+o+run+powershell+as&aqs=chrome.1.69i57j0i13l9.2935j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 368,
+        "prevUrl": "https://superuser.com/questions/936362/powershell-unable-to-set-execution-policy",
+        "time": "6/29/2022, 9:43:07 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 373,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 373,
+        "prevUrl": "",
+        "time": "6/29/2022, 9:46:15 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 373,
+        "curUrl": "https://www.google.com/search?q=netflix+stock&oq=netflix+stock&aqs=chrome..69i57j0i433i512l5j0i512j0i433i512j0i512j0i433i512.3847j1j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 373,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 9:46:23 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 375,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 375,
+        "prevUrl": "",
+        "time": "6/29/2022, 9:46:34 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 375,
+        "curUrl": "https://www.google.com/search?q=netflix+pe+ratio&oq=netflix+pe+ratio&aqs=chrome..69i57j0i512l3j0i22i30l4.2463j1j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 375,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 9:46:38 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 375,
+        "curUrl": "https://ycharts.com/companies/NFLX/pe_ratio",
+        "prevTabId": 375,
+        "prevUrl": "https://www.google.com/search?q=netflix+pe+ratio&oq=netflix+pe+ratio&aqs=chrome..69i57j0i512l3j0i22i30l4.2463j1j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 9:46:44 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 373,
+        "curUrl": "https://www.google.com/search?q=paramount+stock&sxsrf=ALiCzsaPH0Iwov-8gcORHQwNW_6ajJbJBQ%3A1656513981207&ei=vWW8Yv2aDMzWkPIP25am4AY&ved=0ahUKEwi97ai789L4AhVMK0QIHVuLCWwQ4dUDCA4&uact=5&oq=paramount+stock&gs_lcp=Cgdnd3Mtd2l6EAMyCAgAELEDEJECMgUIABCRAjIFCAAQkQIyBQgAEIAEMgUIABCABDIGCAAQHhAHMgsIABCABBCxAxCDATIGCAAQHhAHMgUIABCABDIFCAAQgAQ6CggAELEDEIMBEEM6EAgAEIAEEIcCELEDEIMBEBRKBAhBGABKBAhGGABQAFiJBmCDCWgAcAF4AIABdYgBlQeSAQMzLjaYAQCgAQHAAQE&sclient=gws-wiz",
+        "prevTabId": 373,
+        "prevUrl": "https://www.google.com/search?q=netflix+stock&oq=netflix+stock&aqs=chrome..69i57j0i433i512l5j0i512j0i433i512j0i512j0i433i512.3847j1j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 9:48:04 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 373,
+        "curUrl": "https://www.google.com/search?q=paramount+stock+name&sxsrf=ALiCzsYoahku0FJ52ClxjYLLeiahvoD3rQ%3A1656514081583&ei=IWa8YqibI8-ekPIPz6yPkA8&oq=paramount+stock&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQsAMQQzIHCAAQsAMQQ0oECEEYAEoECEYYAFAAWABglBBoAnABeACAAQCIAQCSAQCYAQDIAQrAAQE&sclient=gws-wiz",
+        "prevTabId": 373,
+        "prevUrl": "https://www.google.com/search?q=paramount+stock&sxsrf=ALiCzsaPH0Iwov-8gcORHQwNW_6ajJbJBQ%3A1656513981207&ei=vWW8Yv2aDMzWkPIP25am4AY&ved=0ahUKEwi97ai789L4AhVMK0QIHVuLCWwQ4dUDCA4&uact=5&oq=paramount+stock&gs_lcp=Cgdnd3Mtd2l6EAMyCAgAELEDEJECMgUIABCRAjIFCAAQkQIyBQgAEIAEMgUIABCABDIGCAAQHhAHMgsIABCABBCxAxCDATIGCAAQHhAHMgUIABCABDIFCAAQgAQ6CggAELEDEIMBEEM6EAgAEIAEEIcCELEDEIMBEBRKBAhBGABKBAhGGABQAFiJBmCDCWgAcAF4AIABdYgBlQeSAQMzLjaYAQCgAQHAAQE&sclient=gws-wiz",
+        "time": "6/29/2022, 9:48:10 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 373,
+        "curUrl": "https://www.google.com/search?q=hulu+stock&sxsrf=ALiCzsZKEYAIW7rp1D7HQB7tPZLyuya9vA%3A1656514088050&ei=KGa8Ys6pAq7JkPIPjNiXwAk&oq=hulu+&gs_lcp=Cgdnd3Mtd2l6EAMYADIECAAQQzIFCAAQkQIyBAgAEEMyBAgAEEMyCwgAEIAEELEDEIMBMggIABCABBCxAzILCAAQgAQQsQMQgwEyCAgAEIAEELEDMgsIABCABBCxAxCDATIECAAQQzoECCMQJzoRCC4QgAQQsQMQgwEQxwEQowI6CAguELEDEIMBOgoIABCxAxCDARBDOgcIABCxAxBDSgQIQRgASgQIRhgAUABYlAVglAxoAHABeACAAXyIAawEkgEDMS40mAEAoAEBwAEB&sclient=gws-wiz",
+        "prevTabId": 373,
+        "prevUrl": "https://www.google.com/search?q=paramount+stock+name&sxsrf=ALiCzsYoahku0FJ52ClxjYLLeiahvoD3rQ%3A1656514081583&ei=IWa8YqibI8-ekPIPz6yPkA8&oq=paramount+stock&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQsAMQQzIHCAAQsAMQQ0oECEEYAEoECEYYAFAAWABglBBoAnABeACAAQCIAQCSAQCYAQDIAQrAAQE&sclient=gws-wiz",
+        "time": "6/29/2022, 9:48:28 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 373,
+        "curUrl": "https://www.google.com/search?q=hbo+stock&sxsrf=ALiCzsadDP4ZkXVKWpondCXKrBDorQWr7w%3A1656514106584&ei=Oma8YqumI97WkPIPn4m8iAE&ved=0ahUKEwirq43389L4AhVeK0QIHZ8EDxEQ4dUDCA4&uact=5&oq=hbo+stock&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAELEDEEMyBggAEB4QBzIFCAAQgAQyBggAEB4QBzIFCAAQgAQyBggAEB4QBzIGCAAQHhAHMgYIABAeEAcyBQgAEIAEMgYIABAeEAc6BwgAEEcQsAM6BwgAELADEEM6BAgAEEM6CggAELEDEIMBEEM6EQguEIAEELEDEIMBEMcBENEDOhAIABCABBCHAhCxAxCDARAUSgQIQRgASgQIRhgAUMZMWMtRYIxVaAFwAXgAgAGDAYgBywOSAQMxLjOYAQCgAQHIAQrAAQE&sclient=gws-wiz",
+        "prevTabId": 373,
+        "prevUrl": "https://www.google.com/search?q=hulu+stock&sxsrf=ALiCzsZKEYAIW7rp1D7HQB7tPZLyuya9vA%3A1656514088050&ei=KGa8Ys6pAq7JkPIPjNiXwAk&oq=hulu+&gs_lcp=Cgdnd3Mtd2l6EAMYADIECAAQQzIFCAAQkQIyBAgAEEMyBAgAEEMyCwgAEIAEELEDEIMBMggIABCABBCxAzILCAAQgAQQsQMQgwEyCAgAEIAEELEDMgsIABCABBCxAxCDATIECAAQQzoECCMQJzoRCC4QgAQQsQMQgwEQxwEQowI6CAguELEDEIMBOgoIABCxAxCDARBDOgcIABCxAxBDSgQIQRgASgQIRhgAUABYlAVglAxoAHABeACAAXyIAawEkgEDMS40mAEAoAEBwAEB&sclient=gws-wiz",
+        "time": "6/29/2022, 9:48:45 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 373,
+        "curUrl": "https://www.google.com/search?q=who+owns+hbo&oq=who+owns+hbo&aqs=chrome..69i57j0i512j0i433i512j0i131i433i512j0i512l3j0i131i433j0i457i512j0i512.2831j1j9&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 373,
+        "prevUrl": "https://www.google.com/search?q=hbo+stock&sxsrf=ALiCzsadDP4ZkXVKWpondCXKrBDorQWr7w%3A1656514106584&ei=Oma8YqumI97WkPIPn4m8iAE&ved=0ahUKEwirq43389L4AhVeK0QIHZ8EDxEQ4dUDCA4&uact=5&oq=hbo+stock&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAELEDEEMyBggAEB4QBzIFCAAQgAQyBggAEB4QBzIFCAAQgAQyBggAEB4QBzIGCAAQHhAHMgYIABAeEAcyBQgAEIAEMgYIABAeEAc6BwgAEEcQsAM6BwgAELADEEM6BAgAEEM6CggAELEDEIMBEEM6EQguEIAEELEDEIMBEMcBENEDOhAIABCABBCHAhCxAxCDARAUSgQIQRgASgQIRhgAUMZMWMtRYIxVaAFwAXgAgAGDAYgBywOSAQMxLjOYAQCgAQHIAQrAAQE&sclient=gws-wiz",
+        "time": "6/29/2022, 9:48:53 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 373,
+        "curUrl": "https://www.google.com/search?q=who+owns+hbo+max&oq=who+owns+hbo+max&aqs=chrome..69i57j0i67i433j0i67l2j0i512l6.3575j0j9&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 373,
+        "prevUrl": "https://www.google.com/search?q=who+owns+hbo&oq=who+owns+hbo&aqs=chrome..69i57j0i512j0i433i512j0i131i433i512j0i512l3j0i131i433j0i457i512j0i512.2831j1j9&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 9:48:59 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 373,
+        "curUrl": "https://www.google.com/search?q=warner+bros+stock&sxsrf=ALiCzsakut-XaW3xxBYXnW0GhN1nhCSLjA%3A1656514138026&ei=Wma8YuWeAfGckPIPl-iqwA0&ved=0ahUKEwjls4yG9NL4AhVxDkQIHRe0CtgQ4dUDCA4&uact=5&oq=warner+bros+stock&gs_lcp=Cgdnd3Mtd2l6EAMyDQgAEIAEEIcCELEDEBQyCggAEIAEEIcCEBQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoECCMQJzoECAAQQzoKCC4QxwEQ0QMQQzoECC4QQzoRCC4QgAQQsQMQgwEQxwEQowI6CgguEMcBEKMCEEM6CgguELEDEIMBEEM6CAguEIAEELEDOg0ILhCxAxDHARDRAxBDOg0ILhCxAxDHARCjAhBDOgUIABCRAjoICAAQsQMQkQI6DgguEIAEELEDEMcBEK8BOg4ILhCABBCxAxCDARDUAjoICAAQgAQQsQNKBAhBGABKBAhGGABQAFiuE2D_E2gAcAF4AIABiwGIAcAOkgEEMy4xM5gBAKABAcABAQ&sclient=gws-wiz",
+        "prevTabId": 373,
+        "prevUrl": "https://www.google.com/search?q=who+owns+hbo+max&oq=who+owns+hbo+max&aqs=chrome..69i57j0i67i433j0i67l2j0i512l6.3575j0j9&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 9:49:04 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 373,
+        "curUrl": "https://www.google.com/search?q=wbd&sxsrf=ALiCzsaEN1AZhrkixCe8fCPXf-9ca4xyTw%3A1656514142484&ei=Xma8Yq2CHY2ckPIPsJmGiAY&ved=0ahUKEwitqZyI9NL4AhUNDkQIHbCMAWEQ4dUDCA4&uact=5&oq=wbd&gs_lcp=Cgdnd3Mtd2l6EAMyEAgAEIAEEIcCELEDEIMBEBQyEAgAEIAEEIcCELEDEIMBEBQyCwgAEIAEELEDEIMBMgcIABCxAxBDMgoIABCxAxCDARBDMgUIABCABDIECAAQQzIKCC4QxwEQ0QMQQzIECAAQQzIKCAAQsQMQgwEQQzoECCMQJzoKCC4QxwEQowIQQzoFCAAQkQI6DQguEMcBENEDENQCEENKBAhBGABKBAhGGABQAFjOAWDnBGgAcAF4AIABjgGIAdACkgEDMi4xmAEAoAEBwAEB&sclient=gws-wiz",
+        "prevTabId": 373,
+        "prevUrl": "https://www.google.com/search?q=warner+bros+stock&sxsrf=ALiCzsakut-XaW3xxBYXnW0GhN1nhCSLjA%3A1656514138026&ei=Wma8YuWeAfGckPIPl-iqwA0&ved=0ahUKEwjls4yG9NL4AhVxDkQIHRe0CtgQ4dUDCA4&uact=5&oq=warner+bros+stock&gs_lcp=Cgdnd3Mtd2l6EAMyDQgAEIAEEIcCELEDEBQyCggAEIAEEIcCEBQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoECCMQJzoECAAQQzoKCC4QxwEQ0QMQQzoECC4QQzoRCC4QgAQQsQMQgwEQxwEQowI6CgguEMcBEKMCEEM6CgguELEDEIMBEEM6CAguEIAEELEDOg0ILhCxAxDHARDRAxBDOg0ILhCxAxDHARCjAhBDOgUIABCRAjoICAAQsQMQkQI6DgguEIAEELEDEMcBEK8BOg4ILhCABBCxAxCDARDUAjoICAAQgAQQsQNKBAhBGABKBAhGGABQAFiuE2D_E2gAcAF4AIABiwGIAcAOkgEEMy4xM5gBAKABAcABAQ&sclient=gws-wiz",
+        "time": "6/29/2022, 9:49:13 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 377,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 377,
+        "prevUrl": "",
+        "time": "6/29/2022, 9:49:44 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 377,
+        "curUrl": "https://www.google.com/search?q=disney+stock&oq=disney+stock&aqs=chrome..69i57j0i67i131i433j0i131i433i512j0i67l4j46i67j0i67l2.1158j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 377,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 9:49:47 AM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 379,
+        "curUrl": "https://www.google.com/search?sxsrf=ALiCzsaLvbl4l-zms_SngFnNpTdkFw9ZUA:1656514185257&q=Bob+Chapek&stick=H4sIAAAAAAAAAOPgE-LSz9U3SMlOq7Q0VwKz4yurCgpTtJSyk6300zLzEvOSU_WLS_KTs62S83MLEvMqdTPz0vIVklPzF7FyOeUnKThnJBakZu9gZdzFzsTBAAAs-pzcUwAAAA&sa=X&ved=2ahUKEwiiks-c9NL4AhXWDkQIHbchBIkQmxMoAHoECDoQAg",
+        "prevTabId": 377,
+        "prevUrl": "https://www.google.com/search?q=disney+stock&oq=disney+stock&aqs=chrome..69i57j0i67i131i433j0i131i433i512j0i67l4j46i67j0i67l2.1158j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 9:50:03 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 379,
+        "curUrl": "https://www.google.com/search?sxsrf=ALiCzsaLvbl4l-zms_SngFnNpTdkFw9ZUA:1656514185257&q=Bob+Chapek&stick=H4sIAAAAAAAAAOPgE-LSz9U3SMlOq7Q0VwKz4yurCgpTtJSyk6300zLzEvOSU_WLS_KTs62S83MLEvMqdTPz0vIVklPzF7FyOeUnKThnJBakZu9gZdzFzsTBAAAs-pzcUwAAAA&sa=X&ved=2ahUKEwiiks-c9NL4AhXWDkQIHbchBIkQmxMoAHoECDoQAg#wptab=s:H4sIAAAAAAAAAONgVuLSz9U3iK-sKihMecRoyi3w8sc9YSmdSWtOXmNU4-IKzsgvd80rySypFJLgYoOy-KR4uJC08exi4g9ILSrOz3NNKU1OLMnMz1vEqlSekVqUqpCSmaKQlJ-kkJyRWJCarZCer1CSr5Ccn5OTmp4KAGdkDM99AAAA",
+        "prevTabId": 379,
+        "prevUrl": "https://www.google.com/search?sxsrf=ALiCzsaLvbl4l-zms_SngFnNpTdkFw9ZUA:1656514185257&q=Bob+Chapek&stick=H4sIAAAAAAAAAOPgE-LSz9U3SMlOq7Q0VwKz4yurCgpTtJSyk6300zLzEvOSU_WLS_KTs62S83MLEvMqdTPz0vIVklPzF7FyOeUnKThnJBakZu9gZdzFzsTBAAAs-pzcUwAAAA&sa=X&ved=2ahUKEwiiks-c9NL4AhXWDkQIHbchBIkQmxMoAHoECDoQAg",
+        "time": "6/29/2022, 9:50:09 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 382,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 382,
+        "prevUrl": "",
+        "time": "6/29/2022, 9:50:56 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 382,
+        "curUrl": "https://www.google.com/search?q=where+to+put+flask+templates&oq=where+to+put+flask+templates&aqs=chrome..69i57j0i22i30l9.3007j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 382,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 9:51:00 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 383,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 383,
+        "prevUrl": "",
+        "time": "6/29/2022, 9:51:16 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 383,
+        "curUrl": "https://www.google.com/search?q=install+flask&oq=install+flask&aqs=chrome..69i57j0i512l9.1297j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 383,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 9:51:19 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 383,
+        "curUrl": "https://www.google.com/search?q=install+flask+ubuntu&sxsrf=ALiCzsY5nnmqMwFYA_4DVuz0n4xJHrvBHw%3A1656514277607&ei=5Wa8YuzWJKCfkPIPiOCakAg&oq=install+flask+&gs_lcp=Cgdnd3Mtd2l6EAEYADIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIFCAAQgAQ6BwgAEEcQsAM6BwgAELADEEM6CggAEOQCELADGAE6EgguEMcBENEDEMgDELADEEMYAjoPCC4Q1AIQyAMQsAMQQxgCSgQIQRgASgQIRhgBULICWLICYO8FaAFwAXgAgAFbiAFbkgEBMZgBAKABAcgBE8ABAdoBBggBEAEYCdoBBggCEAEYCA&sclient=gws-wiz",
+        "prevTabId": 383,
+        "prevUrl": "https://www.google.com/search?q=install+flask&oq=install+flask&aqs=chrome..69i57j0i512l9.1297j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 9:51:21 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 383,
+        "curUrl": "https://www.google.com/search?q=install+flask+python&sxsrf=ALiCzsZasBV0beWGxXCluJDgpiZy2Fmekg%3A1656514280285&ei=6Ga8YuD3ENrVkPIPra6oiAc&ved=0ahUKEwjgi_fJ9NL4AhXaKkQIHS0XCnEQ4dUDCA4&uact=5&oq=install+flask+python&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgQIABBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARKBAhBGABKBAhGGABQAFj9AmDJA2gAcAF4AIABbYgBwwOSAQM0LjGYAQCgAQHAAQE&sclient=gws-wiz",
+        "prevTabId": 383,
+        "prevUrl": "https://www.google.com/search?q=install+flask+ubuntu&sxsrf=ALiCzsY5nnmqMwFYA_4DVuz0n4xJHrvBHw%3A1656514277607&ei=5Wa8YuzWJKCfkPIPiOCakAg&oq=install+flask+&gs_lcp=Cgdnd3Mtd2l6EAEYADIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIFCAAQgAQ6BwgAEEcQsAM6BwgAELADEEM6CggAEOQCELADGAE6EgguEMcBENEDEMgDELADEEMYAjoPCC4Q1AIQyAMQsAMQQxgCSgQIQRgASgQIRhgBULICWLICYO8FaAFwAXgAgAFbiAFbkgEBMZgBAKABAcgBE8ABAdoBBggBEAEYCdoBBggCEAEYCA&sclient=gws-wiz",
+        "time": "6/29/2022, 9:51:23 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 383,
+        "curUrl": "https://flask.palletsprojects.com/en/2.1.x/installation/",
+        "prevTabId": 383,
+        "prevUrl": "https://www.google.com/search?q=install+flask+python&sxsrf=ALiCzsZasBV0beWGxXCluJDgpiZy2Fmekg%3A1656514280285&ei=6Ga8YuD3ENrVkPIPra6oiAc&ved=0ahUKEwjgi_fJ9NL4AhXaKkQIHS0XCnEQ4dUDCA4&uact=5&oq=install+flask+python&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgQIABBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARKBAhBGABKBAhGGABQAFj9AmDJA2gAcAF4AIABbYgBwwOSAQM0LjGYAQCgAQHAAQE&sclient=gws-wiz",
+        "time": "6/29/2022, 9:51:25 AM"
     }
 ]

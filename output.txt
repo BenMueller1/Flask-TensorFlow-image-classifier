@@ -1,10 +1,75 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> cleaX
-Xclea : The term 'clea' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
-if a path was included, verify that the path is correct and try again.X
-At line:1 char:1X
-+ cleaX
-+ ~~~~X
-    + CategoryInfo          : ObjectNotFound: (clea:String) [], CommandNotFoundExceptionX
-    + FullyQualifiedErrorId : CommandNotFoundExceptionX
- X
-X(venv) PS 
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> pip install pytorchX
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+XCollecting pytorch
+  Using cached pytorch-1.0.2.tar.gz (689 bytes)
+  Preparing metadata (setup.py) ... -done
+Building wheels for collected packages: pytorch
+  Building wheel for pytorch (setup.py) ... -error
+  ERROR: Command errored out with exit status 1:X
+   command: 'C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier\venv\Scripts\python.exe' -u -c 'import io, os,
+ sys, setuptools, tokenize; sys.argv[0] = '"'"'C:\\Users\\benjm\\AppData\\Local\\Temp\\pip-install-dwzrr9pa\\pytorch_444a6211e6f94355ad37cd5
+415029543\\setup.py'"'"'; __file__='"'"'C:\\Users\\benjm\\AppData\\Local\\Temp\\pip-install-dwzrr9pa\\pytorch_444a6211e6f94355ad37cd54150295
+43\\setup.py'"'"';f = getattr(tokenize, '"'"'open'"'"', open)(__file__) if os.path.exists(__file__) else io.StringIO('"'"'from setuptools im
+port setup; setup()'"'"');code = f.read().replace('"'"'\r\n'"'"', '"'"'\n'"'"');f.close();exec(compile(code, __file__, '"'"'exec'"'"'))' bdi
+st_wheel -d 'C:\Users\benjm\AppData\Local\Temp\pip-wheel-58o3zl4d'X
+       cwd: C:\Users\benjm\AppData\Local\Temp\pip-install-dwzrr9pa\pytorch_444a6211e6f94355ad37cd5415029543\X
+  Complete output (5 lines):X
+  Traceback (most recent call last):X
+    File "<string>", line 1, in <module>X
+    File "C:\Users\benjm\AppData\Local\Temp\pip-install-dwzrr9pa\pytorch_444a6211e6f94355ad37cd5415029543\setup.py", line 15, in <module>   
+      raise Exception(message)X
+  Exception: You tried to install "pytorch". The package named for PyTorch is "torch"X
+  ----------------------------------------X
+  ERROR: Failed building wheel for pytorchX
+  Running setup.py clean for pytorchX
+XFailed to build pytorch
+XInstalling collected packages: pytorch
+X    Running setup.py install for pytorch ... -error
+    ERROR: Command errored out with exit status 1:X
+     command: 'C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier\venv\Scripts\python.exe' -u -c 'import io, o
+s, sys, setuptools, tokenize; sys.argv[0] = '"'"'C:\\Users\\benjm\\AppData\\Local\\Temp\\pip-install-dwzrr9pa\\pytorch_444a6211e6f94355ad37c
+d5415029543\\setup.py'"'"'; __file__='"'"'C:\\Users\\benjm\\AppData\\Local\\Temp\\pip-install-dwzrr9pa\\pytorch_444a6211e6f94355ad37cd541502
+9543\\setup.py'"'"';f = getattr(tokenize, '"'"'open'"'"', open)(__file__) if os.path.exists(__file__) else io.StringIO('"'"'from setuptools 
+import setup; setup()'"'"');code = f.read().replace('"'"'\r\n'"'"', '"'"'\n'"'"');f.close();exec(compile(code, __file__, '"'"'exec'"'"'))' i
+nstall --record 'C:\Users\benjm\AppData\Local\Temp\pip-record-v6md2d5h\install-record.txt' --single-version-externally-managed --compile --i
+nstall-headers 'C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier\venv\include\site\python3.10\pytorch'      
+         cwd: C:\Users\benjm\AppData\Local\Temp\pip-install-dwzrr9pa\pytorch_444a6211e6f94355ad37cd5415029543\X
+    Complete output (5 lines):X
+    Traceback (most recent call last):X
+      File "<string>", line 1, in <module>X
+      File "C:\Users\benjm\AppData\Local\Temp\pip-install-dwzrr9pa\pytorch_444a6211e6f94355ad37cd5415029543\setup.py", line 11, in <module> 
+        raise Exception(message)X
+    Exception: You tried to install "pytorch". The package named for PyTorch is "torch"X
+    ----------------------------------------X
+ERROR: Command errored out with exit status 1: 'C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier\venv\Script
+s\python.exe' -u -c 'import io, os, sys, setuptools, tokenize; sys.argv[0] = '"'"'C:\\Users\\benjm\\AppData\\Local\\Temp\\pip-install-dwzrr9
+pa\\pytorch_444a6211e6f94355ad37cd5415029543\\setup.py'"'"'; __file__='"'"'C:\\Users\\benjm\\AppData\\Local\\Temp\\pip-install-dwzrr9pa\\pyt
+orch_444a6211e6f94355ad37cd5415029543\\setup.py'"'"';f = getattr(tokenize, '"'"'open'"'"', open)(__file__) if os.path.exists(__file__) else 
+io.StringIO('"'"'from setuptools import setup; setup()'"'"');code = f.read().replace('"'"'\r\n'"'"', '"'"'\n'"'"');f.close();exec(compile(co
+de, __file__, '"'"'exec'"'"'))' install --record 'C:\Users\benjm\AppData\Local\Temp\pip-record-v6md2d5h\install-record.txt' --single-version
+-externally-managed --compile --install-headers 'C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier\venv\inclu
+de\site\python3.10\pytorch' Check the logs for full command output.X
+XWARNING: You are using pip version 21.3.1; however, version 22.1.2 is available.
+You should consider upgrading via the 'C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier\venv\Scripts\python.
+exe -m pip install --upgrade pip' command.X
+XERROR: Command errored out with exit status 1: 'C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier\venv\Script
+s\python.exe' -u -c 'import io, os, sys, setuptools, tokenize; sys.argv[0] = '"'"'C:\\Users\\benjm\\AppData\\Local\\Temp\\pip-install-dwzrr9
+pa\\pytorch_444a6211e6f94355ad37cd5415029543\\setup.py'"'"'; __file__='"'"'C:\\Users\\benjm\\AppData\\Local\\Temp\\pip-install-dwzrr9pa\\pyt
+orch_444a6211e6f94355ad37cd5415029543\\setup.py'"'"';f = getattr(tokenize, '"'"'open'"'"', open)(__file__) if os.path.exists(__file__) else 
+io.StringIO('"'"'from setuptools import setup; setup()'"'"');code = f.read().replace('"'"'\r\n'"'"', '"'"'\n'"'"');f.close();exec(compile(co
+de, __file__, '"'"'exec'"'"'))' install --record 'C:\Users\benjm\AppData\Local\Temp\pip-record-v6md2d5h\install-record.txt' --single-version
+-externally-managed --compile --install-headers 'C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier\venv\inclu
+de\site\python3.10\pytorch' Check the logs for full command output.X
+WARNING: You are using pip version 21.3.1; however, version 22.1.2 is available.X
+You should consider upgrading via the 'C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier\venv\Scripts\python.
+exe -m pip install --upgrade pip' command.X
+(venv) PS 

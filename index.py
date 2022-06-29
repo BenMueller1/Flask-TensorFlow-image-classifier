@@ -10,10 +10,14 @@ api = Api(app)
 def index():
     return render_template("index.html")
 
+@app.route("/ben")
+def ben():
+    return render_template("ben.html")
 
 # add an api endpoint, this is where submitted image is sent
 class ImageClassificationEndpoint(Resource):
     def post(self):
+        print('testy')
         # TODO, use the model we have trained to clasify the data
         # return a JSON object that contains the classification results
         pass

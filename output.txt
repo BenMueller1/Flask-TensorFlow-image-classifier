@@ -1,0 +1,7 @@
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> & C:/Users/benjm/AppData/Local/Microsoft/WindowsApps/python3.9.
+exe "c:/Users/benjm/git/codeHistoriesPythonProjects/Flask TensorFlow image classifier/index.py"X
+checking that codeHistories is workingX
+X
+X
+X
+XPS 

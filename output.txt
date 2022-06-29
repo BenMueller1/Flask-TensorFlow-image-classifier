@@ -1,24 +1,11 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git logX
-commit 96e4a9f5a57c78ce127de368e852a6fb57812ea6 (HEAD -> master)X
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 09:32:51 2022 -0500X
-X
-    [Commit time: 6/29/2022, 9:32:51 AM]X
-X
-commit 27e2ac29358127c4b681504a8f2061eb9cc23aa2 (origin/master)X
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 09:30:36 2022 -0500X
-X
-    init commitX
-:Xcommit 96e4a9f5a57c78ce127de368e852a6fb57812ea6 (HEAD -> master)X
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 09:32:51 2022 -0500X
-X
-    [Commit time: 6/29/2022, 9:32:51 AM]X
-X
-commit 27e2ac29358127c4b681504a8f2061eb9cc23aa2 (origin/master)X
-Author: Ben Mueller <benjm2002@gmail.com>X
-Date:   Wed Jun 29 09:30:36 2022 -0500X
-X
-    init commitX
-XPS 
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git pushX
+Enumerating objects: 9, done.X
+Counting objects: 100% (9/9), done.X
+Delta compression using up to 8 threadsX
+Compressing objects: 100% (6/6), done.X
+Writing objects: 100% (7/7), 1.06 KiB | 1.06 MiB/s, done.X
+Total 7 (delta 1), reused 0 (delta 0), pack-reused 0X
+remote: Resolving deltas: 100% (1/1), done.X
+To https://github.com/BenMueller1/Flask-TensorFlow-image-classifier.gitX
+   27e2ac2..66febc8  master -> masterX
+PS 

@@ -1,0 +1,26 @@
+[
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 361,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 361,
+        "prevUrl": "",
+        "time": "6/29/2022, 9:25:02 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 361,
+        "curUrl": "https://www.google.com/search?q=testing+out+web+histories+%3A)&oq=testing+out+web+histories+%3A)&aqs=chrome..69i57.3327j1j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 361,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 9:25:08 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 361,
+        "curUrl": "https://www.google.com/search?q=is+it+working&oq=is+it+working&aqs=chrome..69i57j46i512j0i512l5j0i20i263i512j0i512l2.1351j0j9&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 361,
+        "prevUrl": "https://www.google.com/search?q=testing+out+web+histories+%3A)&oq=testing+out+web+histories+%3A)&aqs=chrome..69i57.3327j1j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 9:25:19 AM"
+    }
+]

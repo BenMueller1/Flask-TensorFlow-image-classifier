@@ -374,5 +374,61 @@
         "prevTabId": 383,
         "prevUrl": "https://flask.palletsprojects.com/en/2.1.x/installation/",
         "time": "6/29/2022, 9:52:44 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 387,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 387,
+        "prevUrl": "",
+        "time": "6/29/2022, 10:06:54 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "https://www.google.com/search?q=how+to+start+flask+server&oq=how+to+start+flsk+ser&aqs=chrome.1.69i57j0i13l3j0i22i30l2j0i390l4.3773j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 387,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 10:06:59 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "https://www.twilio.com/blog/how-run-flask-application",
+        "prevTabId": 387,
+        "prevUrl": "https://www.google.com/search?q=how+to+start+flask+server&oq=how+to+start+flsk+ser&aqs=chrome.1.69i57j0i13l3j0i22i30l2j0i390l4.3773j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 10:07:09 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 387,
+        "curUrl": "http://localhost:5000/",
+        "prevTabId": 387,
+        "prevUrl": "https://www.twilio.com/blog/how-run-flask-application",
+        "time": "6/29/2022, 10:07:51 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 388,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 388,
+        "prevUrl": "",
+        "time": "6/29/2022, 10:08:14 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 388,
+        "curUrl": "https://www.google.com/search?q=html+boilerplate+vscode&oq=html+boi&aqs=chrome.1.69i57j0i512j0i131i433i512j0i512l7.1735j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 388,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 10:08:17 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 388,
+        "curUrl": "https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate",
+        "prevTabId": 388,
+        "prevUrl": "https://www.google.com/search?q=html+boilerplate+vscode&oq=html+boi&aqs=chrome.1.69i57j0i512j0i131i433i512j0i512l7.1735j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 10:08:21 AM"
     }
 ]

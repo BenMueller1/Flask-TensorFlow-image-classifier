@@ -1,10 +1,10 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> Set-ExecutionPolicy RemoteSignedX
-XSet-ExecutionPolicy : Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PowerShell\1\ShellIds\Microsoft.PowerShell' is denied. To 
-change the execution policy for the default (LocalMachine) scope, start Windows PowerShell with the "Run as administrator" option. To change the    
-execution policy for the current user, run "Set-ExecutionPolicy -Scope CurrentUser".X
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> Set-ExecutionPology -Scope benjm RemoteSignedX
+XSet-ExecutionPology : The term 'Set-ExecutionPology' is not recognized as the name of a cmdlet, function, script file, or operable program. Check 
+the spelling of the name, or if a path was included, verify that the path is correct and try again.X
 At line:1 char:1X
-+ Set-ExecutionPolicy RemoteSignedX
-+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~X
-    + CategoryInfo          : PermissionDenied: (:) [Set-ExecutionPolicy], UnauthorizedAccessExceptionX
-    + FullyQualifiedErrorId : System.UnauthorizedAccessException,Microsoft.PowerShell.Commands.SetExecutionPolicyCommandX
++ Set-ExecutionPology -Scope benjm RemoteSignedX
++ ~~~~~~~~~~~~~~~~~~~X
+    + CategoryInfo          : ObjectNotFound: (Set-ExecutionPology:String) [], CommandNotFoundExceptionX
+    + FullyQualifiedErrorId : CommandNotFoundExceptionX
+ X
 PS 

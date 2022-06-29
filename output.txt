@@ -1,13 +1,13 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> clearX
-XX
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier>X
 X
 X
-X
-X
-X
-X
-X
-X
-X
-X
-XPS 
+X> .> .\.\v.\ve.\ven.\venv.\venv\.\venv\S.\venv\Sc.\venv\Scr.\venv\Scri.\venv\Scrip.\venv\Script.\venv\Scripts.\venv\Scripts\.\venv\Scripts\a.\venv\Scripts\ac.\venv\Scripts\act.\venv\Scripts\acti.\venv\Scripts\activ.\venv\Scripts\activa.\venv\Scripts\activat.\venv\Scripts\activate
+.\venv\Scripts\activate : File C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier\venv\Scripts\activate.ps1 cannot 
+be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at 
+https:/go.microsoft.com/fwlink/?LinkID=135170.X
+At line:1 char:1X
++ .\venv\Scripts\activateX
++ ~~~~~~~~~~~~~~~~~~~~~~~X
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityExceptionX
+    + FullyQualifiedErrorId : UnauthorizedAccessX
+PS 

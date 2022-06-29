@@ -1,10 +1,13 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> cleartX
-Xcleart : The term 'cleart' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, 
-or if a path was included, verify that the path is correct and try again.X
-At line:1 char:1X
-+ cleartX
-+ ~~~~~~X
-    + CategoryInfo          : ObjectNotFound: (cleart:String) [], CommandNotFoundExceptionX
-    + FullyQualifiedErrorId : CommandNotFoundExceptionX
- X
-XPS 
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> clearX
+XX
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+XPS 

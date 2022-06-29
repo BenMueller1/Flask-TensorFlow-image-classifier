@@ -1,7 +1,11 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git commit -m "can now upload images"X
-On branch masterX
-Your branch is ahead of 'origin/master' by 32 commits.X
-  (use "git push" to publish your local commits)X
-X
-nothing to commit, working tree cleanX
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git pushX
+Enumerating objects: 1626, done.X
+Counting objects: 100% (1626/1626), done.X
+Delta compression using up to 8 threadsX
+Compressing objects: 100% (1601/1601), done.X
+Writing objects: 100% (1622/1622), 5.17 MiB | 1.31 MiB/s, done.X
+Total 1622 (delta 146), reused 0 (delta 0), pack-reused 0X
+remote: Resolving deltas: 100% (146/146), completed with 1 local object.X
+To https://github.com/BenMueller1/Flask-TensorFlow-image-classifier.gitX
+   66febc8..740123f  master -> masterX
 (venv) PS 

@@ -1,2 +1,7 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git add *X
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> git commit -m "can now upload images"X
+On branch masterX
+Your branch is ahead of 'origin/master' by 32 commits.X
+  (use "git push" to publish your local commits)X
+X
+nothing to commit, working tree cleanX
 (venv) PS 

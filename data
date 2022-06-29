@@ -94,5 +94,53 @@
         "prevTabId": 365,
         "prevUrl": "https://www.google.com/search?q=why+is+running+scripts+disabled+on+this+system&oq=why+is+running+scrip&aqs=chrome.0.0i512j69i57j0i390l2.2232j0j7&sourceid=chrome&ie=UTF-8",
         "time": "6/29/2022, 9:39:38 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 366,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 366,
+        "prevUrl": "",
+        "time": "6/29/2022, 9:41:11 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 366,
+        "curUrl": "https://www.google.com/search?q=Set-ExecutionPolicy+-Scope+CurrentUser&oq=Set-ExecutionPolicy+-Scope+CurrentUser&aqs=chrome..69i57.91j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 366,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 9:41:13 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 366,
+        "curUrl": "https://stackoverflow.com/questions/32120653/set-executionpolicy-which-is-the-right-one",
+        "prevTabId": 366,
+        "prevUrl": "https://www.google.com/search?q=Set-ExecutionPolicy+-Scope+CurrentUser&oq=Set-ExecutionPolicy+-Scope+CurrentUser&aqs=chrome..69i57.91j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 9:41:15 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 366,
+        "curUrl": "https://www.google.com/search?q=set-executionpolicy+-scope&oq=set-executionpolicy+-scope+&aqs=chrome..69i57j69i59.5919j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 366,
+        "prevUrl": "https://stackoverflow.com/questions/32120653/set-executionpolicy-which-is-the-right-one",
+        "time": "6/29/2022, 9:41:39 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 366,
+        "curUrl": "https://www.danielengberg.com/powershell-check-execution-policy/#:~:text=If%20you%20want%20to%20change,run%20the%20Set%2DExecutionPolicy%20cmdlet.&text=Press%20A%20to%20change%20the,policy%20manually%20on%20a%20client.",
+        "prevTabId": 366,
+        "prevUrl": "https://www.google.com/search?q=set-executionpolicy+-scope&oq=set-executionpolicy+-scope+&aqs=chrome..69i57j69i59.5919j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "6/29/2022, 9:41:43 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 366,
+        "curUrl": "https://www.google.com/search?q=set-executionpolicy+-scope&oq=set-executionpolicy+-scope+&aqs=chrome..69i57j69i59.5919j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 366,
+        "prevUrl": "https://www.danielengberg.com/powershell-check-execution-policy/#:~:text=If%20you%20want%20to%20change,run%20the%20Set%2DExecutionPolicy%20cmdlet.&text=Press%20A%20to%20change%20the,policy%20manually%20on%20a%20client.",
+        "time": "6/29/2022, 9:41:49 AM"
     }
 ]

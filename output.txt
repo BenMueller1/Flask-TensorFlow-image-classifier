@@ -1,11 +1,10 @@
-C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> Set-ExecutionPolicy -Scope benjmX
-XSet-ExecutionPolicy : Cannot bind parameter 'Scope'. Cannot convert value "benjm" to type "Microsoft.PowerShell.ExecutionPolicyScope". Error: 
-"Unable to match the identifier name benjm to a valid enumerator name. Specify one of the following enumerator names and try again:X
-Process, CurrentUser, LocalMachine, UserPolicy, MachinePolicy"X
-At line:1 char:28X
-+ Set-ExecutionPolicy -Scope benjmX
-+                            ~~~~~X
-    + CategoryInfo          : InvalidArgument: (:) [Set-ExecutionPolicy], ParameterBindingExceptionX
-    + FullyQualifiedErrorId : CannotConvertArgumentNoMessage,Microsoft.PowerShell.Commands.SetExecutionPolicyCommandX
+C:\Users\benjm\git\codeHistoriesPythonProjects\Flask TensorFlow image classifier> Get-Execution PolicyX
+XGet-Execution : The term 'Get-Execution' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling 
+of the name, or if a path was included, verify that the path is correct and try again.X
+At line:1 char:1X
++ Get-Execution PolicyX
++ ~~~~~~~~~~~~~X
+    + CategoryInfo          : ObjectNotFound: (Get-Execution:String) [], CommandNotFoundExceptionX
+    + FullyQualifiedErrorId : CommandNotFoundExceptionX
  X
-PS 
+XPS 

@@ -2046,5 +2046,21 @@
         "prevTabId": 387,
         "prevUrl": "http://localhost:5000/",
         "time": "6/29/2022, 1:58:18 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 426,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 426,
+        "prevUrl": "",
+        "time": "6/29/2022, 2:00:36 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 426,
+        "curUrl": "https://outlook.office.com/mail/",
+        "prevTabId": 426,
+        "prevUrl": "chrome://newtab/",
+        "time": "6/29/2022, 2:00:38 PM"
     }
 ]

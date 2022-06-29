@@ -37,5 +37,8 @@ def classify():
     prediction="no clue :("
     return render_template("prediction.html", prediction=prediction)
 
+
+
+
 if __name__ == "__main__":
     app.run(debug=True)
